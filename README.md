@@ -2,7 +2,7 @@
 DeepPlay
 ==============================
 
-Mining AIDA freediving records
+The project DeepPlay aims at mining all reported freediving records from one of the world organization of freediving, AIDA and display the data in a series of graphs and visualizations (D3.js) to promote the sport.
 
 Project Organization
 ------------
