@@ -1,8 +1,20 @@
+#!/path/to/interpreter
+#!/usr/bin/env python
+
 from bs4 import BeautifulSoup
 from lxml import html
 import requests as rq
 import re
 import pandas as pd
+
+'''Select one of 6 disciplines, its corresponding value (id) will be used to obtain html pages'''
+disc = {'STA': 8 ,
+        'DYN': 6,
+        'DNF': 7,
+        'CWT': 3,
+        'CNF': 4,
+        'FIM': 5
+        }
 
 def discipline_scraper():
     ''' This function crawls through an entire freediving discipline, regardless how many pages it consists of. '''
@@ -10,9 +22,10 @@ def discipline_scraper():
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
     '''Pre-selected discipline Constant Weight CWT with id = 3'''
     discipline_url = '&disciplineId=3'
+    #discipline_id = disc[]
     '''Obtain html code for url'''
     page = rq.get(base_url)
-    #discipline_id
+
     '''Parse the page'''
     soup = BeautifulSoup(page.content, "lxml")
 
@@ -42,6 +55,7 @@ def discipline_scraper():
     df=pd.DataFrame(data)
     cols = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"]
     df.columns = cols
+    df.set_index(["Ranking"])
     print df
 
     '''Dataframe df is saved in file results.txt to access results offline'''
