@@ -28,22 +28,25 @@ def get_discipline_value(key):
         print 'Check your spelling. ' + key + ' is not a freediving discipline'
 
 
-def discipline_scraper():
+def scraper(key):
     ''' This function crawls through an entire freediving discipline, regardless how many pages it consists of. '''
 
     '''Obtain html code for url and Parse the page'''
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
-    page = rq.get(base_url)
+    p = 1
+    url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
+    page = rq.get(url)
     soup = BeautifulSoup(page.content, "lxml")
 
 
     '''Use regex to identify the maximum number of pages for the discipline of interest'''
-    p = 1
     page_count = soup.findAll(text=re.compile(r"Page .+ of .+"))
     max_pages = str(page_count).split(' ')[3].split('\\')[0]
+    print int(max_pages)*20
 
     data = []
-    while p < int(max_pages) :
+    while p < int(max_pages)*20 :
+
         '''For each page, create corresponding url, request the library, obtain html code and parse the page'''
         url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
 
@@ -60,13 +63,12 @@ def discipline_scraper():
             for row in rows:
                 cols = row.find_all('td')
                 cols = [ele.text.strip() for ele in cols]
-                data.append([ele for ele in cols if ele]) # data is a list
+                data.append([ele for ele in cols if ele])
 
-                p += 1
+            p += 1
 
     '''Results from list "data" are saved in a dataframe df '''
     df=pd.DataFrame(data, columns = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"])
-    df.set_index('Ranking')
     logging.warning('Finished!')
 
     '''Dataframe df is saved in file results.txt to access results offline'''
