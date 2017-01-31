@@ -35,6 +35,7 @@ def scraper(key):
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
     p = 1
     url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
+
     page = rq.get(url)
     soup = BeautifulSoup(page.content, "lxml")
 
@@ -42,7 +43,6 @@ def scraper(key):
     '''Use regex to identify the maximum number of pages for the discipline of interest'''
     page_count = soup.findAll(text=re.compile(r"Page .+ of .+"))
     max_pages = str(page_count).split(' ')[3].split('\\')[0]
-    print int(max_pages)*20
 
     data = []
     while p < int(max_pages)*20 :
