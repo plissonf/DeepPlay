@@ -1,0 +1,190 @@
+     Ranking                                     Name Results Announced  \
+0         1.                  Mateusz Malina (Poland)   244 m       201   
+1         2.                  Mateusz Malina (Poland)   232 m       101   
+2         3.                  Mateusz Malina (Poland)   232 m       101   
+3         4.              David MULLINS (New Zealand)   232 m         1   
+4         5.                  Mateusz Malina (Poland)   226 m         1   
+5         6.                    Goran COLAK (Croatia)   225 m       225   
+6         7.              David MULLINS (New Zealand)   218 m         0   
+7         8.                  Mateusz Malina (Poland)   214 m       190   
+8         9.                     Tom SIETAS (Germany)   213 m       213   
+9        10.              David MULLINS (New Zealand)   213 m         1   
+10       11.                  Mateusz Malina (Poland)   213 m         1   
+11       12.              David MULLINS (New Zealand)   209 m         1   
+12       13.                  Mateusz Malina (Poland)   208 m         1   
+13       14.                  Frederic SESSA (France)   207 m       177   
+14       15.                    Goran COLAK (Croatia)   206 m       185   
+15       16.                  Mateusz Malina (Poland)   206 m         1   
+16       17.           Alexandr BUBENCHIKOV (Ukraine)   205 m       181   
+17       18.                  Mateusz Malina (Poland)   205 m         1   
+18       19.                  Mateusz Malina (Poland)   204 m         1   
+19       20.           Michal RISIAN (Czech Republic)   203 m       111   
+20       21.                  Mateusz Malina (Poland)   203 m       155   
+21       22.  Alexandr KOSTISHEN (Russian Federation)   200 m        90   
+22       23.           Alexandr BUBENCHIKOV (Ukraine)   200 m       155   
+23       24.                    Goran COLAK (Croatia)   200 m       175   
+24       25.              David MULLINS (New Zealand)   200 m       160   
+25       26.                    Goran COLAK (Croatia)   200 m         1   
+26       27.                    Goran COLAK (Croatia)   200 m        55   
+27       28.                    Goran COLAK (Croatia)   200 m       200   
+28       29.           Rune Hallum SORENSEN (Denmark)   200 m       155   
+29       30.                    vanja PELES (Croatia)   200 m       178   
+...      ...                                      ...     ...       ...   
+6730   6731.          Efim ILYIN (Russian Federation)    50 m        50   
+6731   6732.       Laode  Muhammad Ridwan (Indonesia)    50 m        25   
+6732   6733.                  Felicia Ulltin (Sweden)    50 m         1   
+6733   6734.               Andrey Vorontsov (Ukraine)    50 m        25   
+6734   6735.             Hans-Jürgen LENZEN (Germany)    50 m        50   
+6735   6736.     Oleg CHISTYAKOV (Russian Federation)    50 m        25   
+6736   6737.                   Andy LE SAUCE (France)    50 m        20   
+6737   6738.                    Yoshiro KONNO (Japan)    50 m        50   
+6738   6739.               Ronald LAURENS (Venezuela)    50 m         0   
+6739   6740.              Carlos IGLESIAS (Venezuela)    50 m         0   
+6740   6741.                   Ulrich WULFF (Germany)    50 m        40   
+6741   6742.        José Ramon COLMENARES (Venezuela)    50 m         0   
+6742   6743.              Joseph CALDERON (Venezuela)    50 m         0   
+6743   6744.                 Rik RÖSKEN (Netherlands)    50 m         0   
+6744   6745.                   William BOOT (Belgium)    50 m         0   
+6745   6746.            Olivier ENDERLI (Switzerland)    50 m         0   
+6746   6747.                Matthew CHARLTON (Canada)    50 m        25   
+6747   6748.            Cristian ESPINOZA (Venezuela)    50 m         0   
+6748   6749.                     Frank HILD (Germany)    50 m        75   
+6749   6750.                    Ina CLAUSEN (Denmark)    50 m         0   
+6750   6751.               Ana Sofia DIAZ (Venezuela)    50 m         0   
+6751   6752.                    Vitor LAZERA (Brazil)    50 m        40   
+6752   6753.                    Vitor LAZERA (Brazil)    50 m        40   
+6753   6754.                    Vitor LAZERA (Brazil)    50 m        25   
+6754   6755.              Remko HERMANS (Netherlands)    50 m        50   
+6755   6756.             Glenn VENGHAUS (Netherlands)    50 m        50   
+6756   6757.                  David MAIFRINI (Canada)    50 m        81   
+6757   6758.                 Lorenzo MORELLI (Brazil)    50 m        50   
+6758   6759.       Maxim MAXIMOV (Russian Federation)    50 m        50   
+6759   6760.  Olga STEPANISCHEVA (Russian Federation)    50 m        50   
+
+     Points Penalties        Date  \
+0       122         0   6/27/2016   
+1       116         0   6/27/2016   
+2       116         0   6/27/2016   
+3       116         0   7/12/2009   
+4       113         0   11/8/2014   
+5       112         0  11/20/2013   
+6       109         0   9/27/2010   
+7       107         0   6/19/2015   
+8       106         0    7/2/2008   
+9       106         0   8/10/2008   
+10      106         0    6/7/2014   
+11    104.5         0   6/11/2016   
+12      104         0   12/2/2016   
+13      104         0   10/7/2011   
+14      103         0   6/21/2013   
+15      103         0  10/19/2013   
+16      102         0   6/19/2015   
+17      102         0    4/4/2014   
+18      102         0    4/9/2016   
+19      102         0   11/8/2014   
+20      102         0   5/22/2015   
+21      100         0   6/27/2016   
+22      100         0   6/27/2016   
+23      100         0   6/27/2016   
+24      100         0   8/18/2012   
+25      100         0   10/2/2010   
+26      100         0   6/19/2015   
+27      100         0   6/19/2015   
+28      100         0   5/21/2011   
+29      100         0   6/21/2013   
+...     ...       ...         ...   
+6730     25         0   1/23/2016   
+6731     25         0   10/8/2016   
+6732     25         0  12/18/2016   
+6733     25         0   5/21/2016   
+6734     25         0   2/22/2015   
+6735     25         0    8/1/2015   
+6736     25         0   11/8/2012   
+6737     25         0   5/13/2007   
+6738     25         0   3/23/2002   
+6739     25         0   3/23/2002   
+6740     25         0    5/7/2005   
+6741     25         0   3/23/2002   
+6742     25         0   3/23/2002   
+6743     25         0  12/15/2002   
+6744     25         0   6/23/2002   
+6745     25         0    4/6/2002   
+6746     25         0    7/4/2007   
+6747     25         0   3/23/2002   
+6748     12        12  12/13/2003   
+6749     25         0  11/23/2002   
+6750     25         0   3/23/2002   
+6751     25         0   3/27/2004   
+6752     25         0   9/25/2004   
+6753     25         0   7/12/2006   
+6754     25         0   9/28/2003   
+6755     25         0  11/23/2008   
+6756     10        16   8/27/2005   
+6757     25         0   3/27/2004   
+6758     25         0   4/24/2004   
+6759     25         0   4/24/2004   
+
+                                                  Place  
+0                         Pool World Championships 2016  
+1                         Pool World Championships 2016  
+2                         Pool World Championships 2016  
+3     Wellington Winter Champs, Freediving Competiti...  
+4                                          DNF miniComp  
+5                            Goran Colak DNF WR Attempt  
+6                         Cressi World Record Challenge  
+7     Individual AIDA Pool World Championships - Bel...  
+8                  WR Attempt - SIETAS Tom(STA-DYN-DNF)  
+9                         Wellington Winter Champs 2008  
+10                     Czech National Championship 2014  
+11    Dive Wellington Beuchat New Zealand Wellington...  
+12    Barbórkowy Puchar Śląska we Freedivingu 2016 |...  
+13            World Championship AIDA 2011 Indoor Event  
+14             Individual AIDA pool World Championships  
+15                                        Zlin Cup 2013  
+16    Individual AIDA Pool World Championships - Bel...  
+17        XI Basenowe Mistrzostwa Polski we Freedivingu  
+18                            Sofia Freediving Cup 2016  
+19                                         DNF miniComp  
+20       XII Basenowe Mistrzostwa Polski we Freedivingu  
+21                        Pool World Championships 2016  
+22                        Pool World Championships 2016  
+23                        Pool World Championships 2016  
+24                         New Zealand Indoor Nationals  
+25                                  Rhein-Main Cup 2010  
+26    Individual AIDA Pool World Championships - Bel...  
+27    Individual AIDA Pool World Championships - Bel...  
+28             Finnish National Pool Championships 2011  
+29             Individual AIDA pool World Championships  
+...                                                 ...  
+6730                                 Yaroslavl Open Cup  
+6731                         ID: Apnea Competition 2016  
+6732                Juniordykarnas klubbmästerskap 2016  
+6733   Ukrainian Open Pool Freediving Championship 2016  
+6734                             3rd Tyrolean Apnea Cup  
+6735                          Minsk Open Freediving Cup  
+6736                 Noche de apnea en ciudad de Mexico  
+6737                           Indoor Cup Tateyama 2007  
+6738                                      Copa UCV 2002  
+6739                                      Copa UCV 2002  
+6740                 Freediver Event of the DUC Krefeld  
+6741                                      Copa UCV 2002  
+6742                                      Copa UCV 2002  
+6743                                     1st Dutch Open  
+6744              Dutch Championship in Freediving 2002  
+6745                     Swiss Winter Championship 2002  
+6746          AIDA Pool World Championships with Finals  
+6747                                      Copa UCV 2002  
+6748                                  2nd Dutch FreeINN  
+6749                                1st Copenhagen Open  
+6750                                      Copa UCV 2002  
+6751  2nd National Apnea Indoor AIDA Brasil / Lira T...  
+6752              3rd National Apnea Indoor AIDA Brasil  
+6753                    4th AIDA Brasil National Indoor  
+6754   Dutch Freediving National Pool Championship 2003  
+6755                               4th DUTCH APNEA OPEN  
+6756  1st AIDA Individual Pool World Freediving Cham...  
+6757  2nd National Apnea Indoor AIDA Brasil / Lira T...  
+6758                          Moscow Freediver Cup 2004  
+6759                          Moscow Freediver Cup 2004  
+
+[6760 rows x 8 columns]

@@ -6,9 +6,13 @@ from lxml import html
 import requests as rq
 import re
 import pandas as pd
+import logging
 
-'''Select one of 6 disciplines, its corresponding value (id) will be used to obtain html pages'''
-disc = {'STA': 8 ,
+def get_discipline_value(key):
+    '''This function selects one of 6 disciplines (dictionary keys) and allocates its corresponding value (id)
+    to discipline_url. The function is called in scraper() function to obtain corresponding html pages'''
+
+    disc = {'STA': 8 ,
         'DYN': 6,
         'DNF': 7,
         'CWT': 3,
@@ -16,17 +20,20 @@ disc = {'STA': 8 ,
         'FIM': 5
         }
 
+    if key in disc.keys():
+        value = disc[key]
+        discipline_url = '{}{}'.format('&disciplineId=', value)
+        return discipline_url
+    else:
+        print 'Check your spelling. ' + key + ' is not a freediving discipline'
+
+
 def discipline_scraper():
     ''' This function crawls through an entire freediving discipline, regardless how many pages it consists of. '''
 
+    '''Obtain html code for url and Parse the page'''
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
-    '''Pre-selected discipline Constant Weight CWT with id = 3'''
-    discipline_url = '&disciplineId=3'
-    #discipline_id = disc[]
-    '''Obtain html code for url'''
     page = rq.get(base_url)
-
-    '''Parse the page'''
     soup = BeautifulSoup(page.content, "lxml")
 
 
@@ -37,29 +44,33 @@ def discipline_scraper():
 
     data = []
     while p < int(max_pages) :
-        '''For each page, create corresponding url, obtain html code and parse'''
-        url = '{}{}'.format(base_url, p, discipline_url)
-        new_page = rq.get(url)
-        new_soup = BeautifulSoup(new_page.content, "lxml")
+        '''For each page, create corresponding url, request the library, obtain html code and parse the page'''
+        url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
 
-        '''For each page, each parsed page is saved into the list named "data" '''
-        rows = new_soup.table.tbody.findAll('tr')
-        for row in rows:
-            cols = row.find_all('td')
-            cols = [ele.text.strip() for ele in cols]
-            data.append([ele for ele in cols if ele]) # data is a list
+        '''The break plays the role of safety guard if dictionary key is wrong (not spelled properly or non-existent) then the request
+        for library is not executed (and not going through the for loop to generate the data), an empty dataframe is saved'''
+        if url == '{}{}None'.format(base_url, p):
+            break
+        else:
+            new_page = rq.get(url)
+            new_soup = BeautifulSoup(new_page.content, "lxml")
 
-        p += 1
+            '''For each page, each parsed page is saved into the list named "data" '''
+            rows = new_soup.table.tbody.findAll('tr')
+            for row in rows:
+                cols = row.find_all('td')
+                cols = [ele.text.strip() for ele in cols]
+                data.append([ele for ele in cols if ele]) # data is a list
+
+                p += 1
 
     '''Results from list "data" are saved in a dataframe df '''
-    df=pd.DataFrame(data)
-    cols = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"]
-    df.columns = cols
-    df.set_index(["Ranking"])
-    print df
+    df=pd.DataFrame(data, columns = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"])
+    df.set_index('Ranking')
+    logging.warning('Finished!')
 
     '''Dataframe df is saved in file results.txt to access results offline'''
-    filename = '/Users/fabienplisson/Desktop/DeepPlay/deepplay/notebooks/results.txt'
-    f = open(filename, 'a')
-    f.write(str(df))
-    f.close()
+    filename = '/Users/fabienplisson/Desktop/DeepPlay/deepplay/notebooks/results_{}.txt'.format(key)
+    with open(filename, 'a') as f:
+        f.write(str(df))
+    f.closed

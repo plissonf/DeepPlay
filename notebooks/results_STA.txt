@@ -1,0 +1,190 @@
+     Ranking                                     Name    Results Announced  \
+0         1.                 Stéphane MIFSUD (France)  11:35 min         0   
+1         2.                 Branko PETROVIC (Serbia)  10:23 min       480   
+2         3.                     Tom SIETAS (Germany)  10:12 min         0   
+3         4.            Aleix SEGURA VENDRELL (Spain)  10:07 min       435   
+4         5.            Aleix SEGURA VENDRELL (Spain)  09:32 min       435   
+5         6.            Aleix SEGURA VENDRELL (Spain)  09:23 min       425   
+6         7.            Aleix SEGURA VENDRELL (Spain)  09:23 min       425   
+7         8.                 Branko PETROVIC (Serbia)  09:21 min       480   
+8         9.                    Goran COLAK (Croatia)  09:19 min         1   
+9        10.                     Tom SIETAS (Germany)  09:15 min         0   
+10       11.                    Goran COLAK (Croatia)  09:14 min       510   
+11       12.          Martin Valenta (Czech Republic)  09:14 min         1   
+12       13.                    Goran COLAK (Croatia)  09:13 min       122   
+13       14.          Martin Valenta (Czech Republic)  09:05 min         1   
+14       15.          Martin Valenta (Czech Republic)  09:04 min       452   
+15       16.                 Herbert NITSCH (Austria)  09:04 min         0   
+16       17.            Aleix SEGURA VENDRELL (Spain)  09:04 min       450   
+17       18.                   Guy BREW (New Zealand)  09:03 min       300   
+18       19.  Natalia MOLCHANOVA (Russian Federation)  09:02 min       410   
+19       20.                     Tom SIETAS (Germany)  09:00 min         0   
+20       21.                    Goran COLAK (Croatia)  08:59 min       450   
+21       22.                     Tom SIETAS (Germany)  08:58 min       420   
+22       23.          Martin Valenta (Czech Republic)  08:57 min         1   
+23       24.                     Tom SIETAS (Germany)  08:56 min       420   
+24       25.                 Vincent MATHIEU (France)  08:53 min       317   
+25       26.                     Tom SIETAS (Germany)  08:47 min         0   
+26       27.                   Guy BREW (New Zealand)  08:46 min       430   
+27       28.            Giorgos PANAGIOTAKIS (Greece)  08:46 min       442   
+28       29.                Eugen GOETTLING (Austria)  08:46 min       441   
+29       30.                    Goran COLAK (Croatia)  08:44 min         1   
+...      ...                                      ...        ...       ...   
+6730   6731.            Mouna GHOSSUB (United States)  04:45 min       180   
+6731   6732.            Mouna GHOSSUB (United States)  04:45 min         0   
+6732   6733.                   Lidija LIJIC (Croatia)  04:45 min       230   
+6733   6734.                         Buz MOR (Israel)  04:45 min       210   
+6734   6735.              Charalampos OMIROU (Cyprus)  04:45 min       240   
+6735   6736.                    Nejc LIKAR (Slovenia)  04:45 min       181   
+6736   6737.                 Szabolcs JARAY (Hungary)  04:45 min       225   
+6737   6738.          Olga Martinez ALVAREZ (Germany)  04:45 min       210   
+6738   6739.            Nemanja DIMITRIJEVIC (Serbia)  04:45 min       240   
+6739   6740.                Feargus CALLAGY (Ireland)  04:45 min       240   
+6740   6741.                   Eva ERNKRANS (Finland)  04:45 min         1   
+6741   6742.                     Mario ROTT (Austria)  04:45 min       235   
+6742   6743.                    Andrew HOGAN (Canada)  04:45 min       240   
+6743   6744.                  Dejan ANDJELIC (Serbia)  04:45 min        90   
+6744   6745.                    Goran PEJCIC (Serbia)  04:45 min         1   
+6745   6746.                     Zan PETEK (Slovenia)  04:45 min         1   
+6746   6747.       Sergey OSIPOV (Russian Federation)  04:45 min       230   
+6747   6748.                   Michel SGARRA (France)  04:45 min       240   
+6748   6749.                  Schulz DENNIS (Germany)  04:45 min       270   
+6749   6750.                    Monika HOPF (Germany)  04:45 min        60   
+6750   6751.            Jenna MCGRATH (United States)  04:45 min         3   
+6751   6752.            Jenna MCGRATH (United States)  04:45 min       120   
+6752   6753.                Kristijan CACIC (Croatia)  04:45 min       180   
+6753   6754.                    Bjorke SEJR (Denmark)  04:45 min        60   
+6754   6755.                     Chisa SANADA (Japan)  04:45 min       315   
+6755   6756.                   Takashi MEKATA (Japan)  04:45 min       180   
+6756   6757.                  Terunobu YOKONO (Japan)  04:45 min       143   
+6757   6758.          Kamil  VYSTEJN (Czech Republic)  04:45 min       180   
+6758   6759.                mohamed ELMEKKAWI (Egypt)  04:45 min       240   
+6759   6760.                    Sanja ZAJEC (Croatia)  04:45 min       240   
+
+     Points Penalties        Date  \
+0       139         0    6/8/2009   
+1       125         0  11/18/2011   
+2         0         0    6/3/2008   
+3       121         0   6/19/2015   
+4       112         2   6/19/2015   
+5     111.6         1   6/27/2016   
+6     111.6         1   6/27/2016   
+7       112         0  11/11/2012   
+8       112         0  10/12/2013   
+9         0         0   5/11/2008   
+10    110.8         0   6/27/2016   
+11      111         0   12/2/2016   
+12      111         0   9/19/2014   
+13      109         0  11/26/2016   
+14    108.8         0   6/27/2016   
+15        0         0  12/12/2006   
+16      109         0   4/20/2014   
+17      109         0   7/12/2009   
+18      108         0   6/21/2013   
+19        0         0   8/26/2006   
+20      108         0   6/21/2013   
+21      108         0  12/12/2004   
+22    107.4         0   5/27/2016   
+23      107         0  10/30/2004   
+24    105.6         1   9/16/2016   
+25        0         0   6/11/2004   
+26      105         0   8/21/2009   
+27      105         0   6/21/2013   
+28      105         0   6/21/2013   
+29      105         0   2/23/2013   
+...     ...       ...         ...   
+6730     57         0   5/27/2005   
+6731     57         0  11/11/2006   
+6732     57         0    7/4/2007   
+6733     57         0  11/26/2005   
+6734     57         0    4/9/2006   
+6735     57         0   12/7/2012   
+6736     57         0  10/30/2004   
+6737     57         0   5/29/2010   
+6738     57         0   5/20/2007   
+6739     57         0   3/10/2013   
+6740     57         0   5/15/2010   
+6741     45         0    3/7/2009   
+6742     57         0    6/6/2010   
+6743     57         0   12/7/2008   
+6744     57         0   12/7/2008   
+6745     57         0  10/26/2013   
+6746     57         0    2/9/2013   
+6747     57         0   1/24/2009   
+6748     57         0   5/29/2010   
+6749     57         0   11/6/2011   
+6750     57         0   7/23/2011   
+6751     57         0    9/9/2012   
+6752     57         0  11/13/2010   
+6753     57         0  11/20/2010   
+6754     51         6   5/19/2012   
+6755     57         0   2/24/2013   
+6756     57         0   4/11/2015   
+6757     57         0    6/7/2013   
+6758     57         0   4/13/2014   
+6759     57         0  11/16/2012   
+
+                                                  Place  
+0            WR Attempt - MIFSUD Stephane(Static Apnea)  
+1                                     Submania Cup 2011  
+2                          WR Attempt - SIETAS Tom(STA)  
+3     Individual AIDA Pool World Championships - Bel...  
+4     Individual AIDA Pool World Championships - Bel...  
+5                         Pool World Championships 2016  
+6                         Pool World Championships 2016  
+7            Hydro Dynamic - Austrian Championship 2012  
+8                             Sofia Freediving Cup 2013  
+9                          WR Attempt - SIETAS Tom(STA)  
+10                        Pool World Championships 2016  
+11    Barbórkowy Puchar Śląska we Freedivingu 2016 |...  
+12                   AIDA Team World Championships 2014  
+13                                   MiniComp Brno 2016  
+14                        Pool World Championships 2016  
+15         WR Attempt - NITSCH Herbert(CWT-CNF-FIM-STA)  
+16                              AIDA NATIONAL COMP 2014  
+17    Wellington Winter Champs, Freediving Competiti...  
+18             Individual AIDA pool World Championships  
+19                 WR Attempt - SIETAS Tom(STA-DYN-DNF)  
+20             Individual AIDA pool World Championships  
+21                                 3rd Dutch Apnea Open  
+22         The XIII Polish Feediving Pool Championships  
+23                                  Rhein Main Cup 2004  
+24                              Team World Championship  
+25                        WR Attempt - SIETAS Tom (STA)  
+26     5th AIDA Individual Pool World Championship 2009  
+27             Individual AIDA pool World Championships  
+28             Individual AIDA pool World Championships  
+29    7th Serbian Open Freediving Championship - Bel...  
+...                                                 ...  
+6730                     The Kona Freedive Invitational  
+6731                           Kona Regional Event 2006  
+6732          AIDA Pool World Championships with Finals  
+6733                FDI National Freediving Competition  
+6734                  Third Pancyprian Open Competition  
+6735                                       MAD CUP 2012  
+6736                                Rhein Main Cup 2004  
+6737                   MCR Czech AIDA Championship 2010  
+6738                     AIDA Hellas Spring Apnea Games  
+6739                    Great Northern 2013 - STA - DYN  
+6740                          Swedish National Cup 2010  
+6741                                       FEB Cup 2009  
+6742             CAFA Western Regional Competition 2010  
+6743             (in progress) Serbian Winter Apnea Cup  
+6744             (in progress) Serbian Winter Apnea Cup  
+6745               Hydro Dynamic 2013 powered by SUUNTO  
+6746                          Aqualibrium Pool Cup 2013  
+6747                            8eme Coupe des Dauphins  
+6748    Suddeutsche Meisterschaften im Freitauchen 2010  
+6749           Hydro Dynamic 2011 Austrian Championship  
+6750                   Los Angeles Apnea Challenge 2011  
+6751                            World Championship 2012  
+6752                        6th Submania Apnea Cup 2010  
+6753                Danish Freediving Championship 2010  
+6754  Freediving Indoor Cup 2012 in Tateyama -day of...  
+6755                 TrueNorthã€€Static Challengeã€€â…¢  
+6756             Freediving Indoor Cup 2015 in Tateyama  
+6757                                  Brno MiniComp 013  
+6758                        AIDA CYRPUS POOL GAMES 2014  
+6759                             8th Submania Apnea Cup  
+
+[6760 rows x 8 columns]

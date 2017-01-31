@@ -1,0 +1,190 @@
+     Ranking                                     Name Results Announced  \
+0         1.            Giorgos PANAGIOTAKIS (Greece)   300 m       254   
+1         2.                  Mateusz Malina (Poland)   300 m       255   
+2         3.           Alexandr BUBENCHIKOV (Ukraine)   289 m       124   
+3         4.                  Mateusz Malina (Poland)   285 m         1   
+4         5.                    Goran COLAK (Croatia)   281 m       235   
+5         6.            Giorgos PANAGIOTAKIS (Greece)   280 m       252   
+6         7.              Giannis KOTHONIDIS (Greece)   280 m        12   
+7         8.              Guillaume BUSSIERE (France)   277 m         1   
+8         9.          Martin Valenta (Czech Republic)   273 m        51   
+9        10.          Martin Valenta (Czech Republic)   273 m        51   
+10       11.                    Goran COLAK (Croatia)   273 m       150   
+11       12.  Alexandr KOSTISHEN (Russian Federation)   272 m       251   
+12       13.                 Alexis DUVIVIER (France)   270 m         3   
+13       14.          Martin Valenta (Czech Republic)   268 m       230   
+14       15.              Giannis KOTHONIDIS (Greece)   265 m        75   
+15       16.              David MULLINS (New Zealand)   265 m       250   
+16       17.                 Mikko PÖNTINEN (Finland)   261 m         1   
+17       18.           Alexandr BUBENCHIKOV (Ukraine)   260 m       223   
+18       19.           Alexandr BUBENCHIKOV (Ukraine)   259 m       223   
+19       20.              Guillaume BUSSIERE (France)   259 m       200   
+20       21.  Alexandr KOSTISHEN (Russian Federation)   258 m       100   
+21       22.    Alexey Molchanov (Russian Federation)   258 m        40   
+22       23.    Alexey MOLCHANOV (Russian Federation)   258 m       250   
+23       24.              David MULLINS (New Zealand)   257 m         1   
+24       25.              Giannis KOTHONIDIS (Greece)   257 m       198   
+25       26.  Alexandr KOSTISHEN (Russian Federation)   256 m       235   
+26       27.            Giorgos Panagiotakis (Cyprus)   255 m       209   
+27       28.                  Frederic SESSA (France)   255 m         0   
+28       29.            Giorgos PANAGIOTAKIS (Greece)   255 m       209   
+29       30.                 Mikko PÖNTINEN (Finland)   254 m       202   
+...      ...                                      ...     ...       ...   
+6730   6731.                    Ygal BENABOU (Canada)   100 m        50   
+6731   6732.             Anita JASSO (United Kingdom)   100 m       100   
+6732   6733.              Makaronas THANASIS (Greece)   100 m       100   
+6733   6734.           ASHLEIGH BAIRD (United States)   100 m        50   
+6734   6735.               Johanna NORDBLAD (Finland)   100 m       100   
+6735   6736.       Olga TARANOVA (Russian Federation)   100 m       100   
+6736   6737.                inge VERBRUGGEN (Belgium)   100 m        50   
+6737   6738.              OSCAR SANTIESTEBAN (Mexico)   100 m        55   
+6738   6739.                    Pepe SALCEDO (Mexico)   100 m       120   
+6739   6740.                     Kazuo AOYAMA (Japan)   100 m        75   
+6740   6741.                     Mio KANEMAKI (Japan)   100 m       100   
+6741   6742.                      Asako YOKOI (Japan)   100 m        75   
+6742   6743.                   Regis SCARONE (France)   100 m        75   
+6743   6744.                    david CORTES (France)   100 m        80   
+6744   6745.                   Nicolas AUBRY (France)   100 m       100   
+6745   6746.           Mandy-Rae CRUICKSHANK (Canada)   100 m        50   
+6746   6747.                     Jill YONEDA (Canada)   100 m        50   
+6747   6748.               IAN ALMASI (United States)   100 m        75   
+6748   6749.             Walter MANNSBERGER (Austria)   100 m        50   
+6749   6750.      Igor GOLOVANOV (Russian Federation)   100 m        80   
+6750   6751.                 Ursula WEIGERT (Germany)   100 m        75   
+6751   6752.                Michal DABROWSKI (Poland)   100 m       151   
+6752   6753.                  Martin Cernek (Austria)   100 m        75   
+6753   6754.               Pavlos Kourtellas (Cyprus)   100 m         1   
+6754   6755.       Christopher Funada (United States)   100 m        50   
+6755   6756.                 Nicole Sandberg (Sweden)   100 m        57   
+6756   6757.                 Nicole Sandberg (Sweden)   100 m        65   
+6757   6758.        Jessica Bouwmeester (Switzerland)   100 m        91   
+6758   6759.                  Michel Filinis (Brazil)   100 m        96   
+6759   6760.                 Matt Frost (New Zealand)   100 m         1   
+
+     Points Penalties        Date  \
+0       150         0   6/27/2016   
+1       150         0   6/27/2016   
+2     144.5         0   6/27/2016   
+3     142.5         0   5/27/2016   
+4       140         0   6/21/2013   
+5       140         0   6/19/2015   
+6         0         0   4/24/2016   
+7       138         0   3/15/2015   
+8     136.5         0  10/29/2016   
+9     136.5         0  10/29/2016   
+10      136         0   10/7/2011   
+11      136         0   6/27/2016   
+12      135         0   9/16/2016   
+13      134         0   6/27/2016   
+14    132.5         0    3/5/2016   
+15      132         0   9/27/2010   
+16      126         5   10/7/2011   
+17      130         0   6/19/2015   
+18      130         0   6/21/2013   
+19      130         0   6/21/2013   
+20      129         0   9/16/2016   
+21      129         0   9/16/2016   
+22      129         0   6/19/2015   
+23      128         0    8/1/2010   
+24      128         0   5/10/2015   
+25      128         0   6/21/2013   
+26    127.5         0   4/24/2016   
+27      128         0    7/6/2010   
+28      128         0   4/24/2016   
+29      127         0   6/21/2013   
+...     ...       ...         ...   
+6730     50         0    6/4/2016   
+6731     50         0   4/10/2016   
+6732     50         0   4/24/2016   
+6733     50         0    4/9/2016   
+6734     50         0   6/27/2016   
+6735     50         0    2/6/2016   
+6736     50         0    2/6/2016   
+6737     50         0   5/19/2016   
+6738     40        10   5/19/2016   
+6739     50         0   4/10/2016   
+6740     50         0   4/10/2016   
+6741     50         0    6/5/2016   
+6742     50         0   5/22/2016   
+6743     50         0   5/22/2016   
+6744     50         0   5/22/2016   
+6745     50         0    5/9/2016   
+6746     50         0    5/9/2016   
+6747     50         0    5/9/2016   
+6748     50         0  10/29/2016   
+6749     50         0   1/23/2016   
+6750     50         0   10/1/2016   
+6751   24.5      25.5   5/27/2016   
+6752     50         0  10/29/2016   
+6753     50         0   9/16/2016   
+6754     50         0   9/16/2016   
+6755     50         0   11/9/2016   
+6756     50         0  11/23/2016   
+6757     50         0    4/9/2016   
+6758     50         0    4/9/2016   
+6759     50         0   8/20/2016   
+
+                                                  Place  
+0                         Pool World Championships 2016  
+1                         Pool World Championships 2016  
+2                         Pool World Championships 2016  
+3          The XIII Polish Feediving Pool Championships  
+4              Individual AIDA pool World Championships  
+5     Individual AIDA Pool World Championships - Bel...  
+6                     AIDA Hellas PoolChampionship 2016  
+7                            Coupe des Plongeurs Libres  
+8                        Hydro Dynamic 2016 by SALVIMAR  
+9                            Austria Hydro Dynamic 2016  
+10            World Championship AIDA 2011 Indoor Event  
+11                        Pool World Championships 2016  
+12                              Team World Championship  
+13                        Pool World Championships 2016  
+14                             Athens Apnea 5- 20 march  
+15                        Cressi World Record Challenge  
+16            World Championship AIDA 2011 Indoor Event  
+17    Individual AIDA Pool World Championships - Bel...  
+18             Individual AIDA pool World Championships  
+19             Individual AIDA pool World Championships  
+20                              Team World Championship  
+21                              Team World Championship  
+22    Individual AIDA Pool World Championships - Bel...  
+23                        Wellington Winter Champs 2010  
+24                   AIDA Hellas POOL Championship 2015  
+25             Individual AIDA pool World Championships  
+26                         Hellas PoolChampionship 2016  
+27                7th AIDA Team World Championship 2010  
+28                    AIDA Hellas PoolChampionship 2016  
+29             Individual AIDA pool World Championships  
+...                                                 ...  
+6730                   12 ème Coupe d'apnée de Montréal  
+6731  The 7th Great Northern incorporating the UK BF...  
+6732                       Hellas PoolChampionship 2016  
+6733                      South Florida Apnea Challenge  
+6734                      Pool World Championships 2016  
+6735                           Riga Freediving Cup 2016  
+6736                           Riga Freediving Cup 2016  
+6737                                   Olmeca Open 2016  
+6738                                   Olmeca Open 2016  
+6739  Freedivng indoor cup 2016 in Tateyama Dynamic day  
+6740  Freedivng indoor cup 2016 in Tateyama Dynamic day  
+6741                   Freediving indoor cup in Tatsumi  
+6742                                   Enchirolles 2016  
+6743                                   Enchirolles 2016  
+6744                                   Enchirolles 2016  
+6745                                        Deja Blue 7  
+6746                                        Deja Blue 7  
+6747                                        Deja Blue 7  
+6748                         Austria Hydro Dynamic 2016  
+6749                                 Yaroslavl Open Cup  
+6750                                Rhein Main Cup 2016  
+6751       The XIII Polish Feediving Pool Championships  
+6752                     Hydro Dynamic 2016 by SALVIMAR  
+6753                            Team World Championship  
+6754                            Team World Championship  
+6755                                 November challenge  
+6756                             Sirens united minicomp  
+6757                      South Florida Apnea Challenge  
+6758                          Sofia Freediving Cup 2016  
+6759                    South Florida Apnea Challenge 2  
+
+[6760 rows x 8 columns]
