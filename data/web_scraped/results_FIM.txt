@@ -1,0 +1,335 @@
+   Ranking                                   Name Results Announced Points  \
+0       1.        William TRUBRIDGE (New Zealand)   124 m       124    124   
+1       2.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+2       3.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+3       4.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+4       5.                  Miguel LOZANO (Spain)   122 m       122    122   
+5       6.        William TRUBRIDGE (New Zealand)   122 m       122    122   
+6       7.                  Miguel LOZANO (Spain)   122 m       122    122   
+7       8.                  Miguel LOZANO (Spain)   122 m       122    122   
+8       9.        William TRUBRIDGE (New Zealand)   121 m       121    121   
+9      10.               Herbert NITSCH (Austria)   120 m       120    120   
+10     11.        William TRUBRIDGE (New Zealand)   120 m       120    120   
+11     12.        William TRUBRIDGE (New Zealand)   119 m       119    119   
+12     13.                  Miguel LOZANO (Spain)   118 m       118    118   
+13     14.                  Miguel LOZANO (Spain)   118 m       118    118   
+14     15.                  Miguel LOZANO (Spain)   118 m       118    118   
+15     16.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+16     17.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+17     18.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+18     19.                  Miguel LOZANO (Spain)   117 m       117    117   
+19     20.                  Miguel LOZANO (Spain)   117 m       117    117   
+20     21.                  Miguel LOZANO (Spain)   117 m       117    117   
+21     22.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+22     23.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+23     24.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+24     25.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+25     26.               Herbert NITSCH (Austria)   114 m       114    114   
+26     27.  Alexey MOLCHANOV (Russian Federation)   114 m       114    114   
+27     28.                Mateusz Malina (Poland)   114 m       118    109   
+28     29.                  Miguel LOZANO (Spain)   113 m       113    113   
+29     30.               Walid BOUDHIAF (Tunisia)   113 m       113    113   
+30     31.               Walid BOUDHIAF (Tunisia)   113 m       117    108   
+31     32.                  Miguel LOZANO (Spain)   113 m       113    113   
+32     33.                  Miguel LOZANO (Spain)   113 m       113    113   
+33     34.                  Miguel LOZANO (Spain)   113 m       113    113   
+34     35.                Mateusz Malina (Poland)   113 m       113    113   
+35     36.               Herbert NITSCH (Austria)   112 m       112    112   
+36     37.  Alexey MOLCHANOV (Russian Federation)   112 m       112    112   
+37     38.  Alexey MOLCHANOV (Russian Federation)   112 m       112    112   
+38     39.        William TRUBRIDGE (New Zealand)   112 m       112    111   
+39     40.        William TRUBRIDGE (New Zealand)   112 m       112    112   
+
+   Penalties        Date                                            Place  
+0          0   4/22/2016                               Vertical Blue 2016  
+1          1  11/20/2012                        Suunto Vertical Blue 2012  
+2          1  11/20/2012                        Suunto Vertical Blue 2012  
+3          1  11/20/2012                        Suunto Vertical Blue 2012  
+4          0   5/26/2016                               Caribbean Cup 2016  
+5          0   4/22/2016                               Vertical Blue 2016  
+6          0   5/26/2016                               Caribbean Cup 2016  
+7          0   5/26/2016                               Caribbean Cup 2016  
+8          0   4/17/2011                               Vertical Blue 2011  
+9          0   4/27/2010         Vertical Blue 2010 - the Suunto Dive-Off  
+10         0  11/27/2014                             Suunto Vertical Blue  
+11         0   4/22/2016                               Vertical Blue 2016  
+12         0   5/26/2016                               Caribbean Cup 2016  
+13         0   5/26/2016                               Caribbean Cup 2016  
+14         0   5/26/2016                               Caribbean Cup 2016  
+15         0  11/20/2012                        Suunto Vertical Blue 2012  
+16         0  11/20/2012                        Suunto Vertical Blue 2012  
+17         0  11/20/2012                        Suunto Vertical Blue 2012  
+18         0  11/20/2012                        Suunto Vertical Blue 2012  
+19         0  11/20/2012                        Suunto Vertical Blue 2012  
+20         0  11/20/2012                        Suunto Vertical Blue 2012  
+21         0   4/27/2010         Vertical Blue 2010 - the Suunto Dive-Off  
+22         0   4/22/2016                               Vertical Blue 2016  
+23         0   9/15/2013    AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013  
+24         0   4/27/2015                        Suunto Vertical Blue 2015  
+25         0   4/27/2010         Vertical Blue 2010 - the Suunto Dive-Off  
+26         0  11/27/2014                             Suunto Vertical Blue  
+27         5  11/27/2014                             Suunto Vertical Blue  
+28         0   5/26/2016                               Caribbean Cup 2016  
+29         0    6/4/2016                   Nirvana Oceanquest Competition  
+30         0    6/4/2016                   Nirvana Oceanquest Competition  
+31         0  11/20/2012                        Suunto Vertical Blue 2012  
+32         0  11/20/2012                        Suunto Vertical Blue 2012  
+33         0  11/20/2012                        Suunto Vertical Blue 2012  
+34         0  11/27/2014                             Suunto Vertical Blue  
+35         0   12/6/2009  WR Attempt - NITSCH Herbert(CWT, FIM, VWT, CNF)  
+36         0   11/9/2013                               Vertical Blue 2013  
+37         0   5/25/2014                               Caribbean Cup 2014  
+38         1   9/15/2011    AIDA Individual Depth World Championship 2011  
+39         0   5/23/2015                               Caribbean Cup 2015     Ranking                                   Name Results Announced Points  \
+0       1.        William TRUBRIDGE (New Zealand)   124 m       124    124   
+1       2.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+2       3.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+3       4.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+4       5.                  Miguel LOZANO (Spain)   122 m       122    122   
+5       6.        William TRUBRIDGE (New Zealand)   122 m       122    122   
+6       7.                  Miguel LOZANO (Spain)   122 m       122    122   
+7       8.                  Miguel LOZANO (Spain)   122 m       122    122   
+8       9.        William TRUBRIDGE (New Zealand)   121 m       121    121   
+9      10.               Herbert NITSCH (Austria)   120 m       120    120   
+10     11.        William TRUBRIDGE (New Zealand)   120 m       120    120   
+11     12.        William TRUBRIDGE (New Zealand)   119 m       119    119   
+12     13.                  Miguel LOZANO (Spain)   118 m       118    118   
+13     14.                  Miguel LOZANO (Spain)   118 m       118    118   
+14     15.                  Miguel LOZANO (Spain)   118 m       118    118   
+15     16.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+16     17.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+17     18.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+18     19.                  Miguel LOZANO (Spain)   117 m       117    117   
+19     20.                  Miguel LOZANO (Spain)   117 m       117    117   
+20     21.                  Miguel LOZANO (Spain)   117 m       117    117   
+21     22.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+22     23.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+23     24.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+24     25.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+25     26.               Herbert NITSCH (Austria)   114 m       114    114   
+26     27.  Alexey MOLCHANOV (Russian Federation)   114 m       114    114   
+27     28.                Mateusz Malina (Poland)   114 m       118    109   
+28     29.                  Miguel LOZANO (Spain)   113 m       113    113   
+29     30.               Walid BOUDHIAF (Tunisia)   113 m       113    113   
+..     ...                                    ...     ...       ...    ...   
+50     51.  Alexey MOLCHANOV (Russian Federation)   107 m       107    107   
+51     52.  Alexey MOLCHANOV (Russian Federation)   107 m       107    107   
+52     53.  Alexey MOLCHANOV (Russian Federation)   107 m       110    103   
+53     54.        William TRUBRIDGE (New Zealand)   107 m         0      0   
+54     55.                  Miguel LOZANO (Spain)   107 m       107    107   
+55     56.       Martin STEPANEK (Czech Republic)   106 m         0      0   
+56     57.                Mateusz Malina (Poland)   106 m       106    106   
+57     58.           Antonijo KODERMAN (Slovenia)   105 m       105    105   
+58     59.                Ryuzo SHINOMIYA (Japan)   104 m       104    104   
+59     60.               Walid BOUDHIAF (Tunisia)   103 m       103    103   
+60     61.                Guillaume NÉRY (France)   103 m       103    103   
+61     62.                Mateusz Malina (Poland)   103 m       103    103   
+62     63.                Mateusz Malina (Poland)   103 m       118     87   
+63     64.               Herbert NITSCH (Austria)   102 m       114     89   
+64     65.       Martin STEPANEK (Czech Republic)   102 m         0      0   
+65     66.                Ryuzo SHINOMIYA (Japan)   102 m       102    102   
+66     67.        William TRUBRIDGE (New Zealand)   102 m       115     88   
+67     68.        William TRUBRIDGE (New Zealand)   102 m       102    102   
+68     69.               Walid BOUDHIAF (Tunisia)   102 m       102    102   
+69     70.               Carlos COSTE (Venezuela)   101 m       101      0   
+70     71.                Ryuzo SHINOMIYA (Japan)   101 m       101    101   
+71     72.                Ryuzo SHINOMIYA (Japan)   101 m       115     86   
+72     73.         Jonathan  Sunnex (New Zealand)   101 m       101    101   
+73     74.                   Stig PRYDS (Denmark)   100 m       100    100   
+74     75.               Herbert NITSCH (Austria)   100 m         0      0   
+75     76.  Alexey MOLCHANOV (Russian Federation)   100 m       100    100   
+76     77.                Martin ZAJAC (Slovakia)   100 m       100    100   
+77     78.                  Miguel LOZANO (Spain)   100 m       100    100   
+78     79.               Walid BOUDHIAF (Tunisia)   100 m       100    100   
+79     80.                Mateusz Malina (Poland)   100 m       100    100   
+
+   Penalties        Date                                              Place  
+0          0   4/22/2016                                 Vertical Blue 2016  
+1          1  11/20/2012                          Suunto Vertical Blue 2012  
+2          1  11/20/2012                          Suunto Vertical Blue 2012  
+3          1  11/20/2012                          Suunto Vertical Blue 2012  
+4          0   5/26/2016                                 Caribbean Cup 2016  
+5          0   4/22/2016                                 Vertical Blue 2016  
+6          0   5/26/2016                                 Caribbean Cup 2016  
+7          0   5/26/2016                                 Caribbean Cup 2016  
+8          0   4/17/2011                                 Vertical Blue 2011  
+9          0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+10         0  11/27/2014                               Suunto Vertical Blue  
+11         0   4/22/2016                                 Vertical Blue 2016  
+12         0   5/26/2016                                 Caribbean Cup 2016  
+13         0   5/26/2016                                 Caribbean Cup 2016  
+14         0   5/26/2016                                 Caribbean Cup 2016  
+15         0  11/20/2012                          Suunto Vertical Blue 2012  
+16         0  11/20/2012                          Suunto Vertical Blue 2012  
+17         0  11/20/2012                          Suunto Vertical Blue 2012  
+18         0  11/20/2012                          Suunto Vertical Blue 2012  
+19         0  11/20/2012                          Suunto Vertical Blue 2012  
+20         0  11/20/2012                          Suunto Vertical Blue 2012  
+21         0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+22         0   4/22/2016                                 Vertical Blue 2016  
+23         0   9/15/2013      AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013  
+24         0   4/27/2015                          Suunto Vertical Blue 2015  
+25         0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+26         0  11/27/2014                               Suunto Vertical Blue  
+27         5  11/27/2014                               Suunto Vertical Blue  
+28         0   5/26/2016                                 Caribbean Cup 2016  
+29         0    6/4/2016                     Nirvana Oceanquest Competition  
+..       ...         ...                                                ...  
+50         0  11/20/2012                          Suunto Vertical Blue 2012  
+51         0  11/20/2012                          Suunto Vertical Blue 2012  
+52         4   11/1/2015                                           Big Blue  
+53         0    4/1/2008                                 Vertical Blue 2008  
+54         0   9/11/2015                2015 AIDA Depth World Championships  
+55         0    4/1/2006       WR Attempt - STEPANEK Martin(CNF - CWT -FIM)  
+56         0   9/15/2011      AIDA Individual Depth World Championship 2011  
+57         0   9/15/2011      AIDA Individual Depth World Championship 2011  
+58         0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+59         0    6/4/2016                     Nirvana Oceanquest Competition  
+60         0   9/15/2011      AIDA Individual Depth World Championship 2011  
+61         0   9/11/2015                2015 AIDA Depth World Championships  
+62        16  11/27/2014                               Suunto Vertical Blue  
+63        13   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+64         0   3/23/2004                 WR Attempt - STEPANEK Martin (FIM)  
+65         0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+66        14   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+67         0    6/6/2015                                 NIRVANA OCEANQUEST  
+68         0   5/25/2014                                 Caribbean Cup 2014  
+69         0   9/30/2003  WR Attempt - Carlos COSTE and Stig SEVERINSEN ...  
+70         0   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+71        15   4/27/2010           Vertical Blue 2010 - the Suunto Dive-Off  
+72         0   11/9/2013                                 Vertical Blue 2013  
+73         0   4/22/2016                                 Vertical Blue 2016  
+74         0    9/5/2003         WR Attempt - NITSCH Herbert (CWT,CNF, FIM)  
+75         0   9/15/2011      AIDA Individual Depth World Championship 2011  
+76         0   9/15/2011      AIDA Individual Depth World Championship 2011  
+77         0  10/30/2013                                One Breath Jamboree  
+78         0    6/6/2015                                 NIRVANA OCEANQUEST  
+79         0   9/26/2010                                  Triple Depth 2010  
+
+[80 rows x 8 columns]     Ranking                                   Name Results Announced Points  \
+0         1.        William TRUBRIDGE (New Zealand)   124 m       124    124   
+1         2.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+2         3.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+3         4.        William TRUBRIDGE (New Zealand)   123 m       123    122   
+4         5.                  Miguel LOZANO (Spain)   122 m       122    122   
+5         6.        William TRUBRIDGE (New Zealand)   122 m       122    122   
+6         7.                  Miguel LOZANO (Spain)   122 m       122    122   
+7         8.                  Miguel LOZANO (Spain)   122 m       122    122   
+8         9.        William TRUBRIDGE (New Zealand)   121 m       121    121   
+9        10.               Herbert NITSCH (Austria)   120 m       120    120   
+10       11.        William TRUBRIDGE (New Zealand)   120 m       120    120   
+11       12.        William TRUBRIDGE (New Zealand)   119 m       119    119   
+12       13.                  Miguel LOZANO (Spain)   118 m       118    118   
+13       14.                  Miguel LOZANO (Spain)   118 m       118    118   
+14       15.                  Miguel LOZANO (Spain)   118 m       118    118   
+15       16.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+16       17.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+17       18.        William TRUBRIDGE (New Zealand)   117 m       117    117   
+18       19.                  Miguel LOZANO (Spain)   117 m       117    117   
+19       20.                  Miguel LOZANO (Spain)   117 m       117    117   
+20       21.                  Miguel LOZANO (Spain)   117 m       117    117   
+21       22.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+22       23.        William TRUBRIDGE (New Zealand)   116 m       116    116   
+23       24.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+24       25.        William TRUBRIDGE (New Zealand)   115 m       115    115   
+25       26.               Herbert NITSCH (Austria)   114 m       114    114   
+26       27.  Alexey MOLCHANOV (Russian Federation)   114 m       114    114   
+27       28.                Mateusz Malina (Poland)   114 m       118    109   
+28       29.                  Miguel LOZANO (Spain)   113 m       113    113   
+29       30.               Walid BOUDHIAF (Tunisia)   113 m       113    113   
+...      ...                                    ...     ...       ...    ...   
+3230   3231.          John MCGEAGH (United Kingdom)     0 m         0      0   
+3231   3232.                      Ai FUTAKI (Japan)     0 m         0      0   
+3232   3233.            Makaronas THANASIS (Greece)     0 m         0      0   
+3233   3234.          Giakoumakis GRIGORIS (Greece)     0 m         0      0   
+3234   3235.             Pantelakis KOSTAS (Greece)     0 m         0      0   
+3235   3236.           Vlachakis NEKTARIOS (Greece)     0 m         0      0   
+3236   3237.              Kirkinis MANTHOS (Greece)     0 m         0      0   
+3237   3238.            Mafalda OLIVEIRA (Portugal)     0 m         0      0   
+3238   3239.                   Chikako HARA (Japan)     0 m         0      0   
+3239   3240.           Alejandro GARCIA (Venezuela)     0 m         0      0   
+3240   3241.         Walter JOHNSON (United States)     0 m        20      0   
+3241   3242.              Nicolas GIRARDIN (France)     0 m         0      0   
+3242   3243.           Carla HANSON (United States)     0 m        46      0   
+3243   3244.                    Ohad HAREL (Israel)     0 m         0      0   
+3244   3245.                Michal STAWSKI (Poland)     0 m        42      0   
+3245   3246.           Will WIGGINS (United States)     0 m        25      0   
+3246   3247.               Felipe BEDOYA (Colombia)     0 m        55      0   
+3247   3248.            Zogg BERNHARD (Switzerland)     0 m        30      0   
+3248   3249.               Andrej ROPRET (Slovenia)     0 m        51      0   
+3249   3250.      Abundio RONQUILLO MIGUEL (Mexico)     0 m         0      0   
+3250   3251.                   Marc LENOIR (France)     0 m        40      0   
+3251   3252.               thomas BOUCHARD (France)     0 m        68     -8   
+3252   3253.               thomas BOUCHARD (France)     0 m        68     -8   
+3253   3254.          Natalia CHEESEMAN (Australia)     0 m        27    -10   
+3254   3255.          Natalia CHEESEMAN (Australia)     0 m        27    -10   
+3255   3256.           Victoria BRILLIANT (Ukraine)     0 m        20     -5   
+3256   3257.              Alexey POTAPENKO (Latvia)     0 m         0      0   
+3257   3258.                Jenna APOKOTOS (Greece)     0 m         0      0   
+3258   3259.                   Angi LIM (Singapore)     0 m         0      0   
+3259   3260.               Mihalis FILINIS (Greece)     0 m         0      0   
+
+     Penalties        Date                                          Place  
+0            0   4/22/2016                             Vertical Blue 2016  
+1            1  11/20/2012                      Suunto Vertical Blue 2012  
+2            1  11/20/2012                      Suunto Vertical Blue 2012  
+3            1  11/20/2012                      Suunto Vertical Blue 2012  
+4            0   5/26/2016                             Caribbean Cup 2016  
+5            0   4/22/2016                             Vertical Blue 2016  
+6            0   5/26/2016                             Caribbean Cup 2016  
+7            0   5/26/2016                             Caribbean Cup 2016  
+8            0   4/17/2011                             Vertical Blue 2011  
+9            0   4/27/2010       Vertical Blue 2010 - the Suunto Dive-Off  
+10           0  11/27/2014                           Suunto Vertical Blue  
+11           0   4/22/2016                             Vertical Blue 2016  
+12           0   5/26/2016                             Caribbean Cup 2016  
+13           0   5/26/2016                             Caribbean Cup 2016  
+14           0   5/26/2016                             Caribbean Cup 2016  
+15           0  11/20/2012                      Suunto Vertical Blue 2012  
+16           0  11/20/2012                      Suunto Vertical Blue 2012  
+17           0  11/20/2012                      Suunto Vertical Blue 2012  
+18           0  11/20/2012                      Suunto Vertical Blue 2012  
+19           0  11/20/2012                      Suunto Vertical Blue 2012  
+20           0  11/20/2012                      Suunto Vertical Blue 2012  
+21           0   4/27/2010       Vertical Blue 2010 - the Suunto Dive-Off  
+22           0   4/22/2016                             Vertical Blue 2016  
+23           0   9/15/2013  AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013  
+24           0   4/27/2015                      Suunto Vertical Blue 2015  
+25           0   4/27/2010       Vertical Blue 2010 - the Suunto Dive-Off  
+26           0  11/27/2014                           Suunto Vertical Blue  
+27           5  11/27/2014                           Suunto Vertical Blue  
+28           0   5/26/2016                             Caribbean Cup 2016  
+29           0    6/4/2016                 Nirvana Oceanquest Competition  
+...        ...         ...                                            ...  
+3230         0   7/12/2008                      Salt Free Double Dip 2008  
+3231         0   8/10/2008                     Deepwater Okinawa Cup 2008  
+3232         0   7/25/2008               Mediterranean Freediving Meeting  
+3233         0   7/25/2008               Mediterranean Freediving Meeting  
+3234         0   7/25/2008               Mediterranean Freediving Meeting  
+3235         0   7/25/2008               Mediterranean Freediving Meeting  
+3236         0   7/25/2008               Mediterranean Freediving Meeting  
+3237         0   6/10/2008                              Triple Depth 2008  
+3238         0   11/2/2008              Big Blue 4th Official Competition  
+3239         0    8/2/2008                      Chequeo Nacional de Apnea  
+3240         0   2/11/2010         Andaman AIDA Freediving Challenge 2010  
+3241         0   9/26/2010                              Rab Dive Off 2010  
+3242         0   4/27/2010       Vertical Blue 2010 - the Suunto Dive-Off  
+3243         0   9/26/2010                              Rab Dive Off 2010  
+3244         0   7/30/2011           Crystal Clear Water Competition 2011  
+3245         0   7/26/2009                            FIT Gulfstream Open  
+3246         0   6/14/2010           3rd Mediterranean Freediving Meeting  
+3247         0   8/21/2010                  Swiss Depth Championship 2010  
+3248         0   9/26/2010                              Rab Dive Off 2010  
+3249         0   6/20/2008                       AIDA Mexico Xibalba 2008  
+3250         0   6/14/2010           3rd Mediterranean Freediving Meeting  
+3251         8    7/6/2013                        Nice Abyss contest 2013  
+3252         8    7/6/2013                        Nice Abyss contest 2013  
+3253        10    7/6/2013                        Nice Abyss contest 2013  
+3254        10    7/6/2013                        Nice Abyss contest 2013  
+3255         5   11/1/2015                                       Big Blue  
+3256         0   4/18/2008                           Bizzy blue hole 2008  
+3257         0   9/26/2015                        Summer Apnea Games 2015  
+3258         5   9/26/2015                        Summer Apnea Games 2015  
+3259         0   9/26/2015                        Summer Apnea Games 2015  
+
+[3260 rows x 8 columns]

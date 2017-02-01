@@ -31,7 +31,7 @@ def get_discipline_value(key):
 def scraper(key):
     ''' This function crawls through an entire freediving discipline, regardless how many pages it consists of. '''
 
-    '''Obtain html code for url and Parse the page'''
+    #Obtain html code for url and Parse the page
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
     p = 1
     url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
@@ -40,25 +40,25 @@ def scraper(key):
     soup = BeautifulSoup(page.content, "lxml")
 
 
-    '''Use regex to identify the maximum number of pages for the discipline of interest'''
+    #Use regex to identify the maximum number of pages for the discipline of interest
     page_count = soup.findAll(text=re.compile(r"Page .+ of .+"))
     max_pages = str(page_count).split(' ')[3].split('\\')[0]
 
     data = []
     while p < int(max_pages)*20 :
 
-        '''For each page, create corresponding url, request the library, obtain html code and parse the page'''
+        #For each page, create corresponding url, request the library, obtain html code and parse the page
         url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
 
-        '''The break plays the role of safety guard if dictionary key is wrong (not spelled properly or non-existent) then the request
-        for library is not executed (and not going through the for loop to generate the data), an empty dataframe is saved'''
+        #The break plays the role of safety guard if dictionary key is wrong (not spelled properly or non-existent) then the request
+        #for library is not executed (and not going through the for loop to generate the data), an empty dataframe is saved
         if url == '{}{}None'.format(base_url, p):
             break
         else:
             new_page = rq.get(url)
             new_soup = BeautifulSoup(new_page.content, "lxml")
 
-            '''For each page, each parsed page is saved into the list named "data" '''
+            #For each page, each parsed page is saved into the list named "data"
             rows = new_soup.table.tbody.findAll('tr')
             for row in rows:
                 cols = row.find_all('td')
@@ -67,12 +67,12 @@ def scraper(key):
 
             p += 1
 
-    '''Results from list "data" are saved in a dataframe df '''
+    #Results from list "data" are saved in a dataframe df
     df=pd.DataFrame(data, columns = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"])
     logging.warning('Finished!')
 
-    '''Dataframe df is saved in file results.txt to access results offline'''
-    filename = '/Users/fabienplisson/Desktop/DeepPlay/deepplay/notebooks/results_{}.txt'.format(key)
+    #Dataframe df is saved in file results.txt to access results offline
+    filename = '/Users/fabienplisson/Desktop/Github_shares/DeepPlay/deepplay/data/web_scraped/results_{}.txt'.format(key)
     with open(filename, 'a') as f:
         f.write(str(df))
     f.closed

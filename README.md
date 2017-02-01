@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 DeepPlay
 ==============================
 
-Mining AIDA freediving records
+The project DeepPlay aims at mining all reported freediving records from one of the world organization of freediving, AIDA and display the data in a series of graphs and visualizations (D3.js) to promote the sport.
 
 Project Organization
 ------------
@@ -55,6 +55,3 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-=======
-# DeepPlay
->>>>>>> c168b0b667f6bc8ae634d0ab51fbe8fef5e8603d
