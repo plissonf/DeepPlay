@@ -1,0 +1,190 @@
+      Ranking                                            Name Results  \
+0          1.                   Giorgos PANAGIOTAKIS (Greece)   300 m   
+1          2.                         Mateusz Malina (Poland)   300 m   
+2          3.                  Alexandr BUBENCHIKOV (Ukraine)   289 m   
+3          4.                         Mateusz Malina (Poland)   285 m   
+4          5.                           Goran COLAK (Croatia)   281 m   
+5          6.                   Giorgos PANAGIOTAKIS (Greece)   280 m   
+6          7.                     Giannis KOTHONIDIS (Greece)   280 m   
+7          8.                     Guillaume BUSSIERE (France)   277 m   
+8          9.                 Martin Valenta (Czech Republic)   273 m   
+9         10.                 Martin Valenta (Czech Republic)   273 m   
+10        11.                           Goran COLAK (Croatia)   273 m   
+11        12.         Alexandr KOSTISHEN (Russian Federation)   272 m   
+12        13.                        Alexis DUVIVIER (France)   270 m   
+13        14.                 Martin Valenta (Czech Republic)   268 m   
+14        15.                     Giannis KOTHONIDIS (Greece)   265 m   
+15        16.                     David MULLINS (New Zealand)   265 m   
+16        17.                        Mikko PÖNTINEN (Finland)   261 m   
+17        18.                  Alexandr BUBENCHIKOV (Ukraine)   260 m   
+18        19.                  Alexandr BUBENCHIKOV (Ukraine)   259 m   
+19        20.                     Guillaume BUSSIERE (France)   259 m   
+20        21.         Alexandr KOSTISHEN (Russian Federation)   258 m   
+21        22.           Alexey Molchanov (Russian Federation)   258 m   
+22        23.           Alexey MOLCHANOV (Russian Federation)   258 m   
+23        24.                     David MULLINS (New Zealand)   257 m   
+24        25.                     Giannis KOTHONIDIS (Greece)   257 m   
+25        26.         Alexandr KOSTISHEN (Russian Federation)   256 m   
+26        27.                   Giorgos Panagiotakis (Cyprus)   255 m   
+27        28.                         Frederic SESSA (France)   255 m   
+28        29.                   Giorgos PANAGIOTAKIS (Greece)   255 m   
+29        30.                        Mikko PÖNTINEN (Finland)   254 m   
+...       ...                                             ...     ...   
+13093  13094.                Jimmy Fonager JUSTESEN (Denmark)     0 m   
+13094  13095.                       Kasper KNUTHSEN (Denmark)     0 m   
+13095  13096.                Klaus Wirth KRISTENSEN (Denmark)     0 m   
+13096  13097.  Laurits MUCHITSCH KROMANN HESSELAGER (Denmark)     0 m   
+13097  13098.             Jeppe Lockenwitz PETERSEN (Denmark)     0 m   
+13098  13099.                            Stig PRYDS (Denmark)     0 m   
+13099  13100.           Morten ROSENVOLD VILLARDSEN (Denmark)     0 m   
+13100  13101.                  Rune Hallum SORENSEN (Denmark)     0 m   
+13101  13102.                      Jesper STECHMANN (Denmark)     0 m   
+13102  13103.              Steffen STENSGAARD KRUSE (Denmark)     0 m   
+13103  13104.           Mark Ahle TEGLTOFT PEDERSEN (Denmark)     0 m   
+13104  13105.                  Bjorn Lindhardt WILS (Denmark)     0 m   
+13105  13106.                  Jesper Arbirk LARSEN (Denmark)     0 m   
+13106  13107.                      Rasmus MORTENSEN (Denmark)     0 m   
+13107  13108.                        Nicolai Krûger (Denmark)     0 m   
+13108  13109.                       Michael BEHRENS (Denmark)     0 m   
+13109  13110.          Christina Boesgaard CARLSSON (Denmark)     0 m   
+13110  13111.          Christina Boesgaard CARLSSON (Denmark)     0 m   
+13111  13112.                    Preben Tornø VOIGT (Denmark)     0 m   
+13112  13113.                       Povl FLYGENRING (Denmark)     0 m   
+13113  13114.                         Mihaela ROMIC (Croatia)     0 m   
+13114  13115.                       Bruno BIRGMAJER (Croatia)     0 m   
+13115  13116.                        Andrej ROPRET (Slovenia)     0 m   
+13116  13117.                    Budimir Buda SOBAT (Croatia)     0 m   
+13117  13118.                         Robert TASIC (Slovenia)     0 m   
+13118  13119.                  Eva RAIMUNDEZ KUHLMANN (Spain)     0 m   
+13119  13120.                  Miguel A. ESTEPA BAENA (Spain)     0 m   
+13120  13121.                       Barbara Jeschke (Germany)     0 m   
+13121  13122.                       Barbara Jeschke (Germany)     0 m   
+13122  13123.                 Camilla Salling Olsen (Denmark)     0 m   
+
+      Announced Points Penalties        Date  \
+0           254    150         0   6/27/2016   
+1           255    150         0   6/27/2016   
+2           124  144.5         0   6/27/2016   
+3             1  142.5         0   5/27/2016   
+4           235    140         0   6/21/2013   
+5           252    140         0   6/19/2015   
+6            12      0         0   4/24/2016   
+7             1    138         0   3/15/2015   
+8            51  136.5         0  10/29/2016   
+9            51  136.5         0  10/29/2016   
+10          150    136         0   10/7/2011   
+11          251    136         0   6/27/2016   
+12            3    135         0   9/16/2016   
+13          230    134         0   6/27/2016   
+14           75  132.5         0    3/5/2016   
+15          250    132         0   9/27/2010   
+16            1    126         5   10/7/2011   
+17          223    130         0   6/19/2015   
+18          223    130         0   6/21/2013   
+19          200    130         0   6/21/2013   
+20          100    129         0   9/16/2016   
+21           40    129         0   9/16/2016   
+22          250    129         0   6/19/2015   
+23            1    128         0    8/1/2010   
+24          198    128         0   5/10/2015   
+25          235    128         0   6/21/2013   
+26          209  127.5         0   4/24/2016   
+27            0    128         0    7/6/2010   
+28          209    128         0   4/24/2016   
+29          202    127         0   6/21/2013   
+...         ...    ...       ...         ...   
+13093         0      0         0    3/5/2016   
+13094         0      0         0    3/5/2016   
+13095         0      0         0    3/5/2016   
+13096         0      0         0    3/5/2016   
+13097         0      0         0    3/5/2016   
+13098         0      0         0    3/5/2016   
+13099         0      0         0    3/5/2016   
+13100         0      0         0    3/5/2016   
+13101         0      0         0    3/5/2016   
+13102         0      0         0    3/5/2016   
+13103         0      0         0    3/5/2016   
+13104         0      0         0    3/5/2016   
+13105         0      0         0    3/5/2016   
+13106         0      0         0    3/5/2016   
+13107         0      0         0    3/5/2016   
+13108         0      0         0    3/5/2016   
+13109         0      0         0    3/5/2016   
+13110         0      0         0    3/5/2016   
+13111         0      0         0    3/5/2016   
+13112         0      0         0    3/5/2016   
+13113         0      0         0  11/20/2015   
+13114         0      0         0  11/20/2015   
+13115         0      0         0  11/20/2015   
+13116         0      0         0  11/20/2015   
+13117         0      0         0  11/20/2015   
+13118        60      0         0  12/20/2015   
+13119        80      0         0  12/20/2015   
+13120         0      0         0  10/25/2008   
+13121         0      0         0   8/22/2008   
+13122         0      0         0    3/5/2016   
+
+                                                   Place  
+0                          Pool World Championships 2016  
+1                          Pool World Championships 2016  
+2                          Pool World Championships 2016  
+3           The XIII Polish Feediving Pool Championships  
+4               Individual AIDA pool World Championships  
+5      Individual AIDA Pool World Championships - Bel...  
+6                      AIDA Hellas PoolChampionship 2016  
+7                             Coupe des Plongeurs Libres  
+8                         Hydro Dynamic 2016 by SALVIMAR  
+9                             Austria Hydro Dynamic 2016  
+10             World Championship AIDA 2011 Indoor Event  
+11                         Pool World Championships 2016  
+12                               Team World Championship  
+13                         Pool World Championships 2016  
+14                              Athens Apnea 5- 20 march  
+15                         Cressi World Record Challenge  
+16             World Championship AIDA 2011 Indoor Event  
+17     Individual AIDA Pool World Championships - Bel...  
+18              Individual AIDA pool World Championships  
+19              Individual AIDA pool World Championships  
+20                               Team World Championship  
+21                               Team World Championship  
+22     Individual AIDA Pool World Championships - Bel...  
+23                         Wellington Winter Champs 2010  
+24                    AIDA Hellas POOL Championship 2015  
+25              Individual AIDA pool World Championships  
+26                          Hellas PoolChampionship 2016  
+27                 7th AIDA Team World Championship 2010  
+28                     AIDA Hellas PoolChampionship 2016  
+29              Individual AIDA pool World Championships  
+...                                                  ...  
+13093                      Danish Championship Pool 2016  
+13094                      Danish Championship Pool 2016  
+13095                      Danish Championship Pool 2016  
+13096                      Danish Championship Pool 2016  
+13097                      Danish Championship Pool 2016  
+13098                      Danish Championship Pool 2016  
+13099                      Danish Championship Pool 2016  
+13100                      Danish Championship Pool 2016  
+13101                      Danish Championship Pool 2016  
+13102                      Danish Championship Pool 2016  
+13103                      Danish Championship Pool 2016  
+13104                      Danish Championship Pool 2016  
+13105                      Danish Championship Pool 2016  
+13106                      Danish Championship Pool 2016  
+13107                      Danish Championship Pool 2016  
+13108                      Danish Championship Pool 2016  
+13109                      Danish Championship Pool 2016  
+13110                      Danish Championship Pool 2016  
+13111                      Danish Championship Pool 2016  
+13112                      Danish Championship Pool 2016  
+13113                             11. SUBMANIA APNEA CUP  
+13114                             11. SUBMANIA APNEA CUP  
+13115                             11. SUBMANIA APNEA CUP  
+13116                             11. SUBMANIA APNEA CUP  
+13117                             11. SUBMANIA APNEA CUP  
+13118                       VI Open Apnea Catalunya 2015  
+13119                       VI Open Apnea Catalunya 2015  
+13120                                           RMC 2008  
+13121              Imersion-Lutra Dynamic Challenge 2008  
+13122                      Danish Championship Pool 2016  
+
+[13123 rows x 8 columns]

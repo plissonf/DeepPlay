@@ -1,0 +1,190 @@
+     Ranking                                     Name Results Announced  \
+0         1.                  Mateusz Malina (Poland)   244 m       201   
+1         2.                  Mateusz Malina (Poland)   232 m       101   
+2         3.                  Mateusz Malina (Poland)   232 m       101   
+3         4.              David MULLINS (New Zealand)   232 m         1   
+4         5.                  Mateusz Malina (Poland)   226 m         1   
+5         6.                    Goran COLAK (Croatia)   225 m       225   
+6         7.              David MULLINS (New Zealand)   218 m         0   
+7         8.                  Mateusz Malina (Poland)   214 m       190   
+8         9.                     Tom SIETAS (Germany)   213 m       213   
+9        10.              David MULLINS (New Zealand)   213 m         1   
+10       11.                  Mateusz Malina (Poland)   213 m         1   
+11       12.              David MULLINS (New Zealand)   209 m         1   
+12       13.                  Mateusz Malina (Poland)   208 m         1   
+13       14.                  Frederic SESSA (France)   207 m       177   
+14       15.                    Goran COLAK (Croatia)   206 m       185   
+15       16.                  Mateusz Malina (Poland)   206 m         1   
+16       17.           Alexandr BUBENCHIKOV (Ukraine)   205 m       181   
+17       18.                  Mateusz Malina (Poland)   205 m         1   
+18       19.                  Mateusz Malina (Poland)   204 m         1   
+19       20.           Michal RISIAN (Czech Republic)   203 m       111   
+20       21.                  Mateusz Malina (Poland)   203 m       155   
+21       22.  Alexandr KOSTISHEN (Russian Federation)   200 m        90   
+22       23.           Alexandr BUBENCHIKOV (Ukraine)   200 m       155   
+23       24.                    Goran COLAK (Croatia)   200 m       175   
+24       25.              David MULLINS (New Zealand)   200 m       160   
+25       26.                    Goran COLAK (Croatia)   200 m         1   
+26       27.                    Goran COLAK (Croatia)   200 m        55   
+27       28.                    Goran COLAK (Croatia)   200 m       200   
+28       29.           Rune Hallum SORENSEN (Denmark)   200 m       155   
+29       30.                    vanja PELES (Croatia)   200 m       178   
+...      ...                                      ...     ...       ...   
+7990   7991.               Vojislav PAVLOVIC (Serbia)     0 m         0   
+7991   7992.         Desiree Attias BALFELT (Denmark)     0 m         0   
+7992   7993.        Anna-Marie CHRISTIANSEN (Denmark)     0 m         0   
+7993   7994.       Anne Marie DAHLER-LARSEN (Denmark)     0 m         0   
+7994   7995.                   Rikke HANSEN (Denmark)     0 m         0   
+7995   7996.            Anne HAVE RASMUSSEN (Denmark)     0 m         0   
+7996   7997.                    Hanna HUSUM (Denmark)     0 m         0   
+7997   7998.         Georgina MILLER (United Kingdom)     0 m         0   
+7998   7999.            Anette Rafen OTTZEN (Denmark)     0 m         0   
+7999   8000.                     Dena PARSA (Denmark)     0 m         0   
+8000   8001.               Beci RYAN (United Kingdom)     0 m         0   
+8001   8002.         Karl AARENSTRUP JENSEN (Denmark)     0 m         0   
+8002   8003.                 Mogens DUEHOLM (Denmark)     0 m         0   
+8003   8004.                  Michel FILINIS (Brazil)     0 m         0   
+8004   8005.         Jimmy Fonager JUSTESEN (Denmark)     0 m         0   
+8005   8006.                Kasper KNUTHSEN (Denmark)     0 m         0   
+8006   8007.         Klaus Wirth KRISTENSEN (Denmark)     0 m         0   
+8007   8008.      Jeppe Lockenwitz PETERSEN (Denmark)     0 m         0   
+8008   8009.                     Stig PRYDS (Denmark)     0 m         0   
+8009   8010.    Morten ROSENVOLD VILLARDSEN (Denmark)     0 m         0   
+8010   8011.           Rune Hallum SORENSEN (Denmark)     0 m         0   
+8011   8012.               Jesper STECHMANN (Denmark)     0 m         0   
+8012   8013.       Steffen STENSGAARD KRUSE (Denmark)     0 m         0   
+8013   8014.    Mark Ahle TEGLTOFT PEDERSEN (Denmark)     0 m         0   
+8014   8015.           Bjorn Lindhardt WILS (Denmark)     0 m         0   
+8015   8016.           Jesper Arbirk LARSEN (Denmark)     0 m         0   
+8016   8017.               Rasmus MORTENSEN (Denmark)     0 m         0   
+8017   8018.                  Lars DALLERUP (Denmark)     0 m         0   
+8018   8019.            Eva Bering Sørensen (Denmark)     0 m         0   
+8019   8020.                 Nicolai Krûger (Denmark)     0 m         0   
+
+     Points Penalties        Date  \
+0       122         0   6/27/2016   
+1       116         0   6/27/2016   
+2       116         0   6/27/2016   
+3       116         0   7/12/2009   
+4       113         0   11/8/2014   
+5       112         0  11/20/2013   
+6       109         0   9/27/2010   
+7       107         0   6/19/2015   
+8       106         0    7/2/2008   
+9       106         0   8/10/2008   
+10      106         0    6/7/2014   
+11    104.5         0   6/11/2016   
+12      104         0   12/2/2016   
+13      104         0   10/7/2011   
+14      103         0   6/21/2013   
+15      103         0  10/19/2013   
+16      102         0   6/19/2015   
+17      102         0    4/4/2014   
+18      102         0    4/9/2016   
+19      102         0   11/8/2014   
+20      102         0   5/22/2015   
+21      100         0   6/27/2016   
+22      100         0   6/27/2016   
+23      100         0   6/27/2016   
+24      100         0   8/18/2012   
+25      100         0   10/2/2010   
+26      100         0   6/19/2015   
+27      100         0   6/19/2015   
+28      100         0   5/21/2011   
+29      100         0   6/21/2013   
+...     ...       ...         ...   
+7990      0         0   2/20/2016   
+7991      0         0    3/5/2016   
+7992      0         0    3/5/2016   
+7993      0         0    3/5/2016   
+7994      0         0    3/5/2016   
+7995      0         0    3/5/2016   
+7996      0         0    3/5/2016   
+7997      0         0    3/5/2016   
+7998      0         0    3/5/2016   
+7999      0         0    3/5/2016   
+8000      0         0    3/5/2016   
+8001      0         0    3/5/2016   
+8002      0         0    3/5/2016   
+8003      0         0    3/5/2016   
+8004      0         0    3/5/2016   
+8005      0         0    3/5/2016   
+8006      0         0    3/5/2016   
+8007      0         0    3/5/2016   
+8008      0         0    3/5/2016   
+8009      0         0    3/5/2016   
+8010      0         0    3/5/2016   
+8011      0         0    3/5/2016   
+8012      0         0    3/5/2016   
+8013      0         0    3/5/2016   
+8014      0         0    3/5/2016   
+8015      0         0    3/5/2016   
+8016      0         0    3/5/2016   
+8017      0         0    3/5/2016   
+8018      0         0    3/5/2016   
+8019      0         0    3/5/2016   
+
+                                                  Place  
+0                         Pool World Championships 2016  
+1                         Pool World Championships 2016  
+2                         Pool World Championships 2016  
+3     Wellington Winter Champs, Freediving Competiti...  
+4                                          DNF miniComp  
+5                            Goran Colak DNF WR Attempt  
+6                         Cressi World Record Challenge  
+7     Individual AIDA Pool World Championships - Bel...  
+8                  WR Attempt - SIETAS Tom(STA-DYN-DNF)  
+9                         Wellington Winter Champs 2008  
+10                     Czech National Championship 2014  
+11    Dive Wellington Beuchat New Zealand Wellington...  
+12    Barbórkowy Puchar Śląska we Freedivingu 2016 |...  
+13            World Championship AIDA 2011 Indoor Event  
+14             Individual AIDA pool World Championships  
+15                                        Zlin Cup 2013  
+16    Individual AIDA Pool World Championships - Bel...  
+17        XI Basenowe Mistrzostwa Polski we Freedivingu  
+18                            Sofia Freediving Cup 2016  
+19                                         DNF miniComp  
+20       XII Basenowe Mistrzostwa Polski we Freedivingu  
+21                        Pool World Championships 2016  
+22                        Pool World Championships 2016  
+23                        Pool World Championships 2016  
+24                         New Zealand Indoor Nationals  
+25                                  Rhein-Main Cup 2010  
+26    Individual AIDA Pool World Championships - Bel...  
+27    Individual AIDA Pool World Championships - Bel...  
+28             Finnish National Pool Championships 2011  
+29             Individual AIDA pool World Championships  
+...                                                 ...  
+7990  10th Serbian Open Freediving Championship - Be...  
+7991                      Danish Championship Pool 2016  
+7992                      Danish Championship Pool 2016  
+7993                      Danish Championship Pool 2016  
+7994                      Danish Championship Pool 2016  
+7995                      Danish Championship Pool 2016  
+7996                      Danish Championship Pool 2016  
+7997                      Danish Championship Pool 2016  
+7998                      Danish Championship Pool 2016  
+7999                      Danish Championship Pool 2016  
+8000                      Danish Championship Pool 2016  
+8001                      Danish Championship Pool 2016  
+8002                      Danish Championship Pool 2016  
+8003                      Danish Championship Pool 2016  
+8004                      Danish Championship Pool 2016  
+8005                      Danish Championship Pool 2016  
+8006                      Danish Championship Pool 2016  
+8007                      Danish Championship Pool 2016  
+8008                      Danish Championship Pool 2016  
+8009                      Danish Championship Pool 2016  
+8010                      Danish Championship Pool 2016  
+8011                      Danish Championship Pool 2016  
+8012                      Danish Championship Pool 2016  
+8013                      Danish Championship Pool 2016  
+8014                      Danish Championship Pool 2016  
+8015                      Danish Championship Pool 2016  
+8016                      Danish Championship Pool 2016  
+8017                      Danish Championship Pool 2016  
+8018                      Danish Championship Pool 2016  
+8019                      Danish Championship Pool 2016  
+
+[8020 rows x 8 columns]
