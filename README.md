@@ -2,7 +2,7 @@
 DeepPlay
 ==============================
 
-The project DeepPlay explores the world of competitive freediving from AIDA website - from web-scraping to exploratory data analysis.  The goal of this project is to highlight the sport through insights and a series of vibrant visualizations. 
+The project DeepPlay explores the world of competitive freediving from AIDA website - from web-scraping to exploratory data analysis. The goal of this project is to highlight the sport through insights and a series of vibrant visualizations. 
 
 Project Organization
 ------------
