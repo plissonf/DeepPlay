@@ -7,9 +7,9 @@ The project DeepPlay explores the world of competitive freediving from AIDA webs
 Project Organization
 ------------
 
-data - Collected information from different disciplines
-notebooks - Jupyter notebooks to develop various Python functions
-scripts - Scripts with various functions - web scraping (library request, html parsing), data cleaning
+- data: Collected information from different disciplines
+- notebooks: Jupyter notebooks to develop various Python functions
+- scripts: Scripts with various functions - web scraping (library request, html parsing), data cleaning
 
 
 --------
