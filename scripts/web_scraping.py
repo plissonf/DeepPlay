@@ -1,5 +1,3 @@
-#!/path/to/interpreter
-#!/usr/bin/env python
 
 from bs4 import BeautifulSoup
 from lxml import html
