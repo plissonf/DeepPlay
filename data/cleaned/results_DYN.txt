@@ -1,0 +1,190 @@
+      Ranking                                   Name Results Announced Points  \
+0           1                  Giorgos PANAGIOTAKIS     300        254    150   
+1           2                        Mateusz Malina     300        255    150   
+2           3                  Alexandr BUBENCHIKOV     289        124  144.5   
+3           4                        Mateusz Malina     285          1  142.5   
+4           5                           Goran COLAK     281        235    140   
+5           6                  Giorgos PANAGIOTAKIS     280        252    140   
+6           7                    Giannis KOTHONIDIS     280         12      0   
+7           8                    Guillaume BUSSIERE     277          1    138   
+8           9                        Martin Valenta     273         51  136.5   
+9          10                        Martin Valenta     273         51  136.5   
+10         11                           Goran COLAK     273        150    136   
+11         12                    Alexandr KOSTISHEN     272        251    136   
+12         13                       Alexis DUVIVIER     270          3    135   
+13         14                        Martin Valenta     268        230    134   
+14         15                    Giannis KOTHONIDIS     265         75  132.5   
+15         16                         David MULLINS     265        250    132   
+16         17                        Mikko PÖNTINEN     261          1    126   
+17         18                  Alexandr BUBENCHIKOV     260        223    130   
+18         19                  Alexandr BUBENCHIKOV     259        223    130   
+19         20                    Guillaume BUSSIERE     259        200    130   
+20         21                    Alexandr KOSTISHEN     258        100    129   
+21         22                      Alexey Molchanov     258         40    129   
+22         23                      Alexey MOLCHANOV     258        250    129   
+23         24                         David MULLINS     257          1    128   
+24         25                    Giannis KOTHONIDIS     257        198    128   
+25         26                    Alexandr KOSTISHEN     256        235    128   
+26         27                  Giorgos Panagiotakis     255        209  127.5   
+27         28                        Frederic SESSA     255          0    128   
+28         29                  Giorgos PANAGIOTAKIS     255        209    128   
+29         30                        Mikko PÖNTINEN     254        202    127   
+...       ...                                    ...     ...       ...    ...   
+13092   13093                        Michel FILINIS       0          0      0   
+13093   13094                Jimmy Fonager JUSTESEN       0          0      0   
+13094   13095                       Kasper KNUTHSEN       0          0      0   
+13095   13096                Klaus Wirth KRISTENSEN       0          0      0   
+13096   13097  Laurits MUCHITSCH KROMANN HESSELAGER       0          0      0   
+13097   13098             Jeppe Lockenwitz PETERSEN       0          0      0   
+13098   13099                            Stig PRYDS       0          0      0   
+13099   13100           Morten ROSENVOLD VILLARDSEN       0          0      0   
+13100   13101                  Rune Hallum SORENSEN       0          0      0   
+13101   13102                      Jesper STECHMANN       0          0      0   
+13102   13103              Steffen STENSGAARD KRUSE       0          0      0   
+13103   13104           Mark Ahle TEGLTOFT PEDERSEN       0          0      0   
+13104   13105                  Bjorn Lindhardt WILS       0          0      0   
+13105   13106                  Jesper Arbirk LARSEN       0          0      0   
+13106   13107                      Rasmus MORTENSEN       0          0      0   
+13107   13108                        Nicolai Krûger       0          0      0   
+13108   13109                       Michael BEHRENS       0          0      0   
+13109   13110          Christina Boesgaard CARLSSON       0          0      0   
+13111   13112                    Preben Tornø VOIGT       0          0      0   
+13112   13113                       Povl FLYGENRING       0          0      0   
+13113   13114                         Mihaela ROMIC       0          0      0   
+13114   13115                       Bruno BIRGMAJER       0          0      0   
+13115   13116                         Andrej ROPRET       0          0      0   
+13116   13117                    Budimir Buda SOBAT       0          0      0   
+13117   13118                          Robert TASIC       0          0      0   
+13118   13119                Eva RAIMUNDEZ KUHLMANN       0         60      0   
+13119   13120                Miguel A. ESTEPA BAENA       0         80      0   
+13120   13121                       Barbara Jeschke       0          0      0   
+13121   13122                       Barbara Jeschke       0          0      0   
+13122   13123                 Camilla Salling Olsen       0          0      0   
+
+      Penalties       Date                                              Place  \
+0             0 2016-06-27                      Pool World Championships 2016   
+1             0 2016-06-27                      Pool World Championships 2016   
+2             0 2016-06-27                      Pool World Championships 2016   
+3             0 2016-05-27       The XIII Polish Feediving Pool Championships   
+4             0 2013-06-21           Individual AIDA pool World Championships   
+5             0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+6             0 2016-04-24                  AIDA Hellas PoolChampionship 2016   
+7             0 2015-03-15                         Coupe des Plongeurs Libres   
+8             0 2016-10-29                     Hydro Dynamic 2016 by SALVIMAR   
+9             0 2016-10-29                         Austria Hydro Dynamic 2016   
+10            0 2011-10-07          World Championship AIDA 2011 Indoor Event   
+11            0 2016-06-27                      Pool World Championships 2016   
+12            0 2016-09-16                            Team World Championship   
+13            0 2016-06-27                      Pool World Championships 2016   
+14            0 2016-03-05                           Athens Apnea 5- 20 march   
+15            0 2010-09-27                      Cressi World Record Challenge   
+16            5 2011-10-07          World Championship AIDA 2011 Indoor Event   
+17            0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+18            0 2013-06-21           Individual AIDA pool World Championships   
+19            0 2013-06-21           Individual AIDA pool World Championships   
+20            0 2016-09-16                            Team World Championship   
+21            0 2016-09-16                            Team World Championship   
+22            0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+23            0 2010-08-01                      Wellington Winter Champs 2010   
+24            0 2015-05-10                 AIDA Hellas POOL Championship 2015   
+25            0 2013-06-21           Individual AIDA pool World Championships   
+26            0 2016-04-24                       Hellas PoolChampionship 2016   
+27            0 2010-07-06              7th AIDA Team World Championship 2010   
+28            0 2016-04-24                  AIDA Hellas PoolChampionship 2016   
+29            0 2013-06-21           Individual AIDA pool World Championships   
+...         ...        ...                                                ...   
+13092         0 2016-03-05                      Danish Championship Pool 2016   
+13093         0 2016-03-05                      Danish Championship Pool 2016   
+13094         0 2016-03-05                      Danish Championship Pool 2016   
+13095         0 2016-03-05                      Danish Championship Pool 2016   
+13096         0 2016-03-05                      Danish Championship Pool 2016   
+13097         0 2016-03-05                      Danish Championship Pool 2016   
+13098         0 2016-03-05                      Danish Championship Pool 2016   
+13099         0 2016-03-05                      Danish Championship Pool 2016   
+13100         0 2016-03-05                      Danish Championship Pool 2016   
+13101         0 2016-03-05                      Danish Championship Pool 2016   
+13102         0 2016-03-05                      Danish Championship Pool 2016   
+13103         0 2016-03-05                      Danish Championship Pool 2016   
+13104         0 2016-03-05                      Danish Championship Pool 2016   
+13105         0 2016-03-05                      Danish Championship Pool 2016   
+13106         0 2016-03-05                      Danish Championship Pool 2016   
+13107         0 2016-03-05                      Danish Championship Pool 2016   
+13108         0 2016-03-05                      Danish Championship Pool 2016   
+13109         0 2016-03-05                      Danish Championship Pool 2016   
+13111         0 2016-03-05                      Danish Championship Pool 2016   
+13112         0 2016-03-05                      Danish Championship Pool 2016   
+13113         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+13114         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+13115         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+13116         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+13117         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+13118         0 2015-12-20                       VI Open Apnea Catalunya 2015   
+13119         0 2015-12-20                       VI Open Apnea Catalunya 2015   
+13120         0 2008-10-25                                           RMC 2008   
+13121         0 2008-08-22              Imersion-Lutra Dynamic Challenge 2008   
+13122         0 2016-03-05                      Danish Championship Pool 2016   
+
+                  Country  
+0                  Greece  
+1                  Poland  
+2                 Ukraine  
+3                  Poland  
+4                 Croatia  
+5                  Greece  
+6                  Greece  
+7                  France  
+8          Czech Republic  
+9          Czech Republic  
+10                Croatia  
+11     Russian Federation  
+12                 France  
+13         Czech Republic  
+14                 Greece  
+15            New Zealand  
+16                Finland  
+17                Ukraine  
+18                Ukraine  
+19                 France  
+20     Russian Federation  
+21     Russian Federation  
+22     Russian Federation  
+23            New Zealand  
+24                 Greece  
+25     Russian Federation  
+26                 Cyprus  
+27                 France  
+28                 Greece  
+29                Finland  
+...                   ...  
+13092              Brazil  
+13093             Denmark  
+13094             Denmark  
+13095             Denmark  
+13096             Denmark  
+13097             Denmark  
+13098             Denmark  
+13099             Denmark  
+13100             Denmark  
+13101             Denmark  
+13102             Denmark  
+13103             Denmark  
+13104             Denmark  
+13105             Denmark  
+13106             Denmark  
+13107             Denmark  
+13108             Denmark  
+13109             Denmark  
+13111             Denmark  
+13112             Denmark  
+13113             Croatia  
+13114             Croatia  
+13115            Slovenia  
+13116             Croatia  
+13117            Slovenia  
+13118               Spain  
+13119               Spain  
+13120             Germany  
+13121             Germany  
+13122             Denmark  
+
+[13012 rows x 9 columns]

@@ -1,0 +1,190 @@
+     Ranking                           Name Results Announced Points  \
+0          1                Mateusz Malina     244        201    122   
+1          2                Mateusz Malina     232        101    116   
+3          4                 David MULLINS     232          1    116   
+4          5                Mateusz Malina     226          1    113   
+5          6                   Goran COLAK     225        225    112   
+6          7                 David MULLINS     218          0    109   
+7          8                Mateusz Malina     214        190    107   
+8          9                    Tom SIETAS     213        213    106   
+9         10                 David MULLINS     213          1    106   
+10        11                Mateusz Malina     213          1    106   
+11        12                 David MULLINS     209          1  104.5   
+12        13                Mateusz Malina     208          1    104   
+13        14                Frederic SESSA     207        177    104   
+14        15                   Goran COLAK     206        185    103   
+15        16                Mateusz Malina     206          1    103   
+16        17          Alexandr BUBENCHIKOV     205        181    102   
+17        18                Mateusz Malina     205          1    102   
+18        19                Mateusz Malina     204          1    102   
+19        20                 Michal RISIAN     203        111    102   
+20        21                Mateusz Malina     203        155    102   
+21        22            Alexandr KOSTISHEN     200         90    100   
+22        23          Alexandr BUBENCHIKOV     200        155    100   
+23        24                   Goran COLAK     200        175    100   
+24        25                 David MULLINS     200        160    100   
+25        26                   Goran COLAK     200          1    100   
+26        27                   Goran COLAK     200         55    100   
+27        28                   Goran COLAK     200        200    100   
+28        29          Rune Hallum SORENSEN     200        155    100   
+29        30                   vanja PELES     200        178    100   
+30        31            Giannis KOTHONIDIS     200        150    100   
+...      ...                            ...     ...       ...    ...   
+8004    8005        Jimmy Fonager JUSTESEN       0          0      0   
+8005    8006               Kasper KNUTHSEN       0          0      0   
+8006    8007        Klaus Wirth KRISTENSEN       0          0      0   
+8007    8008     Jeppe Lockenwitz PETERSEN       0          0      0   
+8008    8009                    Stig PRYDS       0          0      0   
+8009    8010   Morten ROSENVOLD VILLARDSEN       0          0      0   
+8010    8011          Rune Hallum SORENSEN       0          0      0   
+8011    8012              Jesper STECHMANN       0          0      0   
+8012    8013      Steffen STENSGAARD KRUSE       0          0      0   
+8013    8014   Mark Ahle TEGLTOFT PEDERSEN       0          0      0   
+8014    8015          Bjorn Lindhardt WILS       0          0      0   
+8015    8016          Jesper Arbirk LARSEN       0          0      0   
+8016    8017              Rasmus MORTENSEN       0          0      0   
+8017    8018                 Lars DALLERUP       0          0      0   
+8018    8019           Eva Bering Sørensen       0          0      0   
+8019    8020                Nicolai Krûger       0          0      0   
+8020    8021               Michael BEHRENS       0          0      0   
+8021    8022  Christina Boesgaard CARLSSON       0          0      0   
+8022    8023               Bruno BIRGMAJER       0          0      0   
+8023    8024                 Andrej ROPRET       0          0      0   
+8024    8025            Budimir Buda SOBAT       0          0      0   
+8025    8026                  Robert TASIC       0          0      0   
+8026    8027        Eva RAIMUNDEZ KUHLMANN       0         25      0   
+8027    8028        Miguel A. ESTEPA BAENA       0         65      0   
+8028    8029           Sander van Bokhoven       0          0      0   
+8029    8030                Kathryn Nevatt       0         -1      0   
+8030    8031         Camilla Salling Olsen       0          0      0   
+8031    8032                 Kurt Chambers       0        100      0   
+8032    8033           Yiorgos Mitropoulos       0         40      0   
+8033    8034           Yiorgos Mitropoulos       0          0      0   
+
+     Penalties       Date                                              Place  \
+0            0 2016-06-27                      Pool World Championships 2016   
+1            0 2016-06-27                      Pool World Championships 2016   
+3            0 2009-07-12  Wellington Winter Champs, Freediving Competiti...   
+4            0 2014-11-08                                       DNF miniComp   
+5            0 2013-11-20                         Goran Colak DNF WR Attempt   
+6            0 2010-09-27                      Cressi World Record Challenge   
+7            0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+8            0 2008-07-02               WR Attempt - SIETAS Tom(STA-DYN-DNF)   
+9            0 2008-08-10                      Wellington Winter Champs 2008   
+10           0 2014-06-07                   Czech National Championship 2014   
+11           0 2016-06-11  Dive Wellington Beuchat New Zealand Wellington...   
+12           0 2016-12-02  Barbórkowy Puchar Śląska we Freedivingu 2016 |...   
+13           0 2011-10-07          World Championship AIDA 2011 Indoor Event   
+14           0 2013-06-21           Individual AIDA pool World Championships   
+15           0 2013-10-19                                      Zlin Cup 2013   
+16           0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+17           0 2014-04-04      XI Basenowe Mistrzostwa Polski we Freedivingu   
+18           0 2016-04-09                          Sofia Freediving Cup 2016   
+19           0 2014-11-08                                       DNF miniComp   
+20           0 2015-05-22     XII Basenowe Mistrzostwa Polski we Freedivingu   
+21           0 2016-06-27                      Pool World Championships 2016   
+22           0 2016-06-27                      Pool World Championships 2016   
+23           0 2016-06-27                      Pool World Championships 2016   
+24           0 2012-08-18                       New Zealand Indoor Nationals   
+25           0 2010-10-02                                Rhein-Main Cup 2010   
+26           0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+27           0 2015-06-19  Individual AIDA Pool World Championships - Bel...   
+28           0 2011-05-21           Finnish National Pool Championships 2011   
+29           0 2013-06-21           Individual AIDA pool World Championships   
+30           0 2015-05-24                 4TH THESSALONIKI INTER APNEA GAMES   
+...        ...        ...                                                ...   
+8004         0 2016-03-05                      Danish Championship Pool 2016   
+8005         0 2016-03-05                      Danish Championship Pool 2016   
+8006         0 2016-03-05                      Danish Championship Pool 2016   
+8007         0 2016-03-05                      Danish Championship Pool 2016   
+8008         0 2016-03-05                      Danish Championship Pool 2016   
+8009         0 2016-03-05                      Danish Championship Pool 2016   
+8010         0 2016-03-05                      Danish Championship Pool 2016   
+8011         0 2016-03-05                      Danish Championship Pool 2016   
+8012         0 2016-03-05                      Danish Championship Pool 2016   
+8013         0 2016-03-05                      Danish Championship Pool 2016   
+8014         0 2016-03-05                      Danish Championship Pool 2016   
+8015         0 2016-03-05                      Danish Championship Pool 2016   
+8016         0 2016-03-05                      Danish Championship Pool 2016   
+8017         0 2016-03-05                      Danish Championship Pool 2016   
+8018         0 2016-03-05                      Danish Championship Pool 2016   
+8019         0 2016-03-05                      Danish Championship Pool 2016   
+8020         0 2016-03-05                      Danish Championship Pool 2016   
+8021         0 2016-03-05                      Danish Championship Pool 2016   
+8022         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+8023         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+8024         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+8025         0 2015-11-20                             11. SUBMANIA APNEA CUP   
+8026         0 2015-12-20                       VI Open Apnea Catalunya 2015   
+8027         0 2015-12-20                       VI Open Apnea Catalunya 2015   
+8028         0 2008-08-22              Imersion-Lutra Dynamic Challenge 2008   
+8029         0 2008-05-10                            Apneists Challenge 2008   
+8030         0 2016-03-05                      Danish Championship Pool 2016   
+8031         0 2008-02-22                  USAA - For The Love of Freediving   
+8032         0 2008-04-06                AIDA Hellas Spring Apnea Games 2008   
+8033         0 2008-07-06        AIDA HELLAS SUMMER APNEA GAMES 2008 PART II   
+
+                 Country  
+0                 Poland  
+1                 Poland  
+3            New Zealand  
+4                 Poland  
+5                Croatia  
+6            New Zealand  
+7                 Poland  
+8                Germany  
+9            New Zealand  
+10                Poland  
+11           New Zealand  
+12                Poland  
+13                France  
+14               Croatia  
+15                Poland  
+16               Ukraine  
+17                Poland  
+18                Poland  
+19        Czech Republic  
+20                Poland  
+21    Russian Federation  
+22               Ukraine  
+23               Croatia  
+24           New Zealand  
+25               Croatia  
+26               Croatia  
+27               Croatia  
+28               Denmark  
+29               Croatia  
+30                Greece  
+...                  ...  
+8004             Denmark  
+8005             Denmark  
+8006             Denmark  
+8007             Denmark  
+8008             Denmark  
+8009             Denmark  
+8010             Denmark  
+8011             Denmark  
+8012             Denmark  
+8013             Denmark  
+8014             Denmark  
+8015             Denmark  
+8016             Denmark  
+8017             Denmark  
+8018             Denmark  
+8019             Denmark  
+8020             Denmark  
+8021             Denmark  
+8022             Croatia  
+8023            Slovenia  
+8024             Croatia  
+8025            Slovenia  
+8026               Spain  
+8027               Spain  
+8028         Netherlands  
+8029         New Zealand  
+8030             Denmark  
+8031       United States  
+8032              Greece  
+8033              Greece  
+
+[7949 rows x 9 columns]

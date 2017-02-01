@@ -1,0 +1,190 @@
+     Ranking                       Name Results Announced Points Penalties  \
+0          1         William TRUBRIDGE     124        124    124         0   
+1          2         William TRUBRIDGE     123        123    122         1   
+4          5             Miguel LOZANO     122        122    122         0   
+5          6         William TRUBRIDGE     122        122    122         0   
+8          9         William TRUBRIDGE     121        121    121         0   
+9         10            Herbert NITSCH     120        120    120         0   
+10        11         William TRUBRIDGE     120        120    120         0   
+11        12         William TRUBRIDGE     119        119    119         0   
+12        13             Miguel LOZANO     118        118    118         0   
+15        16         William TRUBRIDGE     117        117    117         0   
+18        19             Miguel LOZANO     117        117    117         0   
+21        22         William TRUBRIDGE     116        116    116         0   
+22        23         William TRUBRIDGE     116        116    116         0   
+23        24         William TRUBRIDGE     115        115    115         0   
+24        25         William TRUBRIDGE     115        115    115         0   
+25        26            Herbert NITSCH     114        114    114         0   
+26        27          Alexey MOLCHANOV     114        114    114         0   
+27        28            Mateusz Malina     114        118    109         5   
+28        29             Miguel LOZANO     113        113    113         0   
+29        30            Walid BOUDHIAF     113        113    113         0   
+30        31            Walid BOUDHIAF     113        117    108         0   
+31        32             Miguel LOZANO     113        113    113         0   
+34        35            Mateusz Malina     113        113    113         0   
+35        36            Herbert NITSCH     112        112    112         0   
+36        37          Alexey MOLCHANOV     112        112    112         0   
+37        38          Alexey MOLCHANOV     112        112    112         0   
+38        39         William TRUBRIDGE     112        112    111         1   
+39        40         William TRUBRIDGE     112        112    112         0   
+40        41         William TRUBRIDGE     112        113    110         2   
+41        42         William TRUBRIDGE     111        111    111         0   
+...      ...                        ...     ...       ...    ...       ...   
+3236    3237          Kirkinis MANTHOS       0          0      0         0   
+3237    3238          Mafalda OLIVEIRA       0          0      0         0   
+3238    3239              Chikako HARA       0          0      0         0   
+3239    3240          Alejandro GARCIA       0          0      0         0   
+3240    3241            Walter JOHNSON       0         20      0         0   
+3241    3242          Nicolas GIRARDIN       0          0      0         0   
+3242    3243              Carla HANSON       0         46      0         0   
+3243    3244                Ohad HAREL       0          0      0         0   
+3244    3245            Michal STAWSKI       0         42      0         0   
+3245    3246              Will WIGGINS       0         25      0         0   
+3246    3247             Felipe BEDOYA       0         55      0         0   
+3247    3248             Zogg BERNHARD       0         30      0         0   
+3248    3249             Andrej ROPRET       0         51      0         0   
+3249    3250  Abundio RONQUILLO MIGUEL       0          0      0         0   
+3250    3251               Marc LENOIR       0         40      0         0   
+3251    3252           thomas BOUCHARD       0         68     -8         8   
+3253    3254         Natalia CHEESEMAN       0         27    -10        10   
+3255    3256        Victoria BRILLIANT       0         20     -5         5   
+3256    3257          Alexey POTAPENKO       0          0      0         0   
+3257    3258            Jenna APOKOTOS       0          0      0         0   
+3258    3259                  Angi LIM       0          0      0         5   
+3259    3260           Mihalis FILINIS       0          0      0         0   
+3260    3261          Christos POLITIS       0          0      0         0   
+3261    3262                 Efi SANTA       0          0      0         0   
+3262    3263                 Tony HELM       0          0      0         0   
+3263    3264       Aristides IOANNIDIS       0          0      0         0   
+3264    3265        Dimitris KOUMOULOS       0          0      0         0   
+3265    3266             Francesca Koe       0         40     -5         5   
+3266    3267            Kathryn Nevatt       0         -1      0         0   
+3267    3268             Francesca Koe       0         20      0         0   
+
+           Date                                            Place  \
+0    2016-04-22                               Vertical Blue 2016   
+1    2012-11-20                        Suunto Vertical Blue 2012   
+4    2016-05-26                               Caribbean Cup 2016   
+5    2016-04-22                               Vertical Blue 2016   
+8    2011-04-17                               Vertical Blue 2011   
+9    2010-04-27         Vertical Blue 2010 - the Suunto Dive-Off   
+10   2014-11-27                             Suunto Vertical Blue   
+11   2016-04-22                               Vertical Blue 2016   
+12   2016-05-26                               Caribbean Cup 2016   
+15   2012-11-20                        Suunto Vertical Blue 2012   
+18   2012-11-20                        Suunto Vertical Blue 2012   
+21   2010-04-27         Vertical Blue 2010 - the Suunto Dive-Off   
+22   2016-04-22                               Vertical Blue 2016   
+23   2013-09-15    AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013   
+24   2015-04-27                        Suunto Vertical Blue 2015   
+25   2010-04-27         Vertical Blue 2010 - the Suunto Dive-Off   
+26   2014-11-27                             Suunto Vertical Blue   
+27   2014-11-27                             Suunto Vertical Blue   
+28   2016-05-26                               Caribbean Cup 2016   
+29   2016-06-04                   Nirvana Oceanquest Competition   
+30   2016-06-04                   Nirvana Oceanquest Competition   
+31   2012-11-20                        Suunto Vertical Blue 2012   
+34   2014-11-27                             Suunto Vertical Blue   
+35   2009-12-06  WR Attempt - NITSCH Herbert(CWT, FIM, VWT, CNF)   
+36   2013-11-09                               Vertical Blue 2013   
+37   2014-05-25                               Caribbean Cup 2014   
+38   2011-09-15    AIDA Individual Depth World Championship 2011   
+39   2015-05-23                               Caribbean Cup 2015   
+40   2015-09-11              2015 AIDA Depth World Championships   
+41   2013-05-20                               Caribbean Cup 2013   
+...         ...                                              ...   
+3236 2008-07-25                 Mediterranean Freediving Meeting   
+3237 2008-06-10                                Triple Depth 2008   
+3238 2008-11-02                Big Blue 4th Official Competition   
+3239 2008-08-02                        Chequeo Nacional de Apnea   
+3240 2010-02-11           Andaman AIDA Freediving Challenge 2010   
+3241 2010-09-26                                Rab Dive Off 2010   
+3242 2010-04-27         Vertical Blue 2010 - the Suunto Dive-Off   
+3243 2010-09-26                                Rab Dive Off 2010   
+3244 2011-07-30             Crystal Clear Water Competition 2011   
+3245 2009-07-26                              FIT Gulfstream Open   
+3246 2010-06-14             3rd Mediterranean Freediving Meeting   
+3247 2010-08-21                    Swiss Depth Championship 2010   
+3248 2010-09-26                                Rab Dive Off 2010   
+3249 2008-06-20                         AIDA Mexico Xibalba 2008   
+3250 2010-06-14             3rd Mediterranean Freediving Meeting   
+3251 2013-07-06                          Nice Abyss contest 2013   
+3253 2013-07-06                          Nice Abyss contest 2013   
+3255 2015-11-01                                         Big Blue   
+3256 2008-04-18                             Bizzy blue hole 2008   
+3257 2015-09-26                          Summer Apnea Games 2015   
+3258 2015-09-26                          Summer Apnea Games 2015   
+3259 2015-09-26                          Summer Apnea Games 2015   
+3260 2015-09-26                          Summer Apnea Games 2015   
+3261 2015-09-26                          Summer Apnea Games 2015   
+3262 2015-09-26                          Summer Apnea Games 2015   
+3263 2015-09-26                          Summer Apnea Games 2015   
+3264 2015-09-26                          Summer Apnea Games 2015   
+3265 2013-10-05                                     Deja Blue IV   
+3266 2008-03-09                                Apnea@Altitude 08   
+3267 2010-05-11                               PFI Deja Blue 2010   
+
+                 Country  
+0            New Zealand  
+1            New Zealand  
+4                  Spain  
+5            New Zealand  
+8            New Zealand  
+9                Austria  
+10           New Zealand  
+11           New Zealand  
+12                 Spain  
+15           New Zealand  
+18                 Spain  
+21           New Zealand  
+22           New Zealand  
+23           New Zealand  
+24           New Zealand  
+25               Austria  
+26    Russian Federation  
+27                Poland  
+28                 Spain  
+29               Tunisia  
+30               Tunisia  
+31                 Spain  
+34                Poland  
+35               Austria  
+36    Russian Federation  
+37    Russian Federation  
+38           New Zealand  
+39           New Zealand  
+40           New Zealand  
+41           New Zealand  
+...                  ...  
+3236              Greece  
+3237            Portugal  
+3238               Japan  
+3239           Venezuela  
+3240       United States  
+3241              France  
+3242       United States  
+3243              Israel  
+3244              Poland  
+3245       United States  
+3246            Colombia  
+3247         Switzerland  
+3248            Slovenia  
+3249              Mexico  
+3250              France  
+3251              France  
+3253           Australia  
+3255             Ukraine  
+3256              Latvia  
+3257              Greece  
+3258           Singapore  
+3259              Greece  
+3260              Greece  
+3261              Greece  
+3262              Greece  
+3263              Greece  
+3264              Greece  
+3265       United States  
+3266         New Zealand  
+3267       United States  
+
+[2994 rows x 9 columns]
