@@ -19,22 +19,33 @@ def get_discipline_value(key):
         'CNF': 4,
         'FIM': 5
         }
-
     if key in disc.keys():
         value = disc[key]
         discipline_url = '{}{}'.format('&disciplineId=', value)
         return discipline_url
     else:
-        print 'Check your spelling. ' + key + ' is not a freediving discipline'
+        logging.warning('Check your spelling. ' + key + ' is not a freediving discipline')
 
+def cleanser(a_list):
+    '''This function changes the list named 'data' scrapped for each discipline and turns it
+    into a cleaned and labelled dataframe df using regular expression.'''
+
+    df = pd.DataFrame(a_list)
+    df.columns = ['Ranking', 'Name', 'Results', 'Announced', 'Points', 'Penalties', 'Date', 'Place']
+    df['Ranking'] = df['Ranking'].str.replace('.', '')
+    df['Country'] = df['Name'].str.extract('.*\((.*)\).*', expand=True)
+    df['Name'] = df['Name'].str.replace(r"\(.*\)","")
+    df['Results'] = df['Results'].str.replace('m', '')
+    df['Date'] = pd.to_datetime(df['Date'])
+    df = df.drop_duplicates(['Name', 'Results', 'Announced', 'Points', 'Penalties', 'Date', 'Place', 'Country'])
+    return df
 
 def scraper(key):
     ''' This function crawls through an entire freediving discipline, regardless how many pages it consists of. '''
 
     #Obtain html code for url and Parse the page
     base_url = 'https://www.aidainternational.org/Ranking/Rankings?page='
-    p = 1
-    url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
+    url = '{}1{}'.format(base_url, get_discipline_value(key))
 
     page = rq.get(url)
     soup = BeautifulSoup(page.content, "lxml")
@@ -45,7 +56,7 @@ def scraper(key):
     max_pages = str(page_count).split(' ')[3].split('\\')[0]
 
     data = []
-    while p < int(max_pages)*20 :
+    for p in range(1, int(max_pages)+1):
 
         #For each page, create corresponding url, request the library, obtain html code and parse the page
         url = '{}{}{}'.format(base_url, p, get_discipline_value(key))
@@ -67,12 +78,12 @@ def scraper(key):
 
             p += 1
 
-    #Results from list "data" are saved in a dataframe df
-    df=pd.DataFrame(data, columns = ["Ranking", "Name", "Results", "Announced", "Points", "Penalties", "Date", "Place"])
+    #Results from list "data" are cleaned using "cleanser" method and saved in a dataframe clean_df
+    clean_df = cleanser(data)
     logging.warning('Finished!')
 
     #Dataframe df is saved in file results.txt to access results offline
-    filename = '/Users/fabienplisson/Desktop/Github_shares/DeepPlay/deepplay/data/web_scraped/results_{}.txt'.format(key)
+    filename = '/Users/fabienplisson/Desktop/Github_shares/DeepPlay/deepplay/data/cleaned/results_{}.txt'.format(key)
     with open(filename, 'a') as f:
-        f.write(str(df))
+        f.write(str(clean_df))
     f.closed
