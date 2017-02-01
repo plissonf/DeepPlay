@@ -1,0 +1,190 @@
+     Ranking                     Name Results Announced Points Penalties  \
+0          1        Alexey MOLCHANOV     128        128    127         1   
+3          4        Alexey MOLCHANOV     128        128    128         0   
+4          5        Alexey MOLCHANOV     128        128      0         0   
+5          6          Guillaume NÉRY     126        126    126         0   
+6          7        Alexey MOLCHANOV     126        126    126         0   
+9         10          Guillaume NÉRY     125        125    125         0   
+10        11           David MULLINS     125        125    125         0   
+11        12          Herbert NITSCH     124        124    124         0   
+12        13          Herbert NITSCH     123        123    123         0   
+13        14          Guillaume NÉRY     123        123    123         0   
+14        15        Alexey MOLCHANOV     123        123    123         0   
+15        16        Alexey MOLCHANOV     123        123    123         0   
+16        17         Martin STEPANEK     122        122    122         0   
+17        18        Alexey MOLCHANOV     122        123    120         2   
+18        19          Guillaume NÉRY     121        121    121         0   
+19        20        Alexey MOLCHANOV     121        121    121         0   
+22        23       William TRUBRIDGE     121        121    121         0   
+25        26          Herbert NITSCH     120        120    120         0   
+26        27        Alexey MOLCHANOV     120        120    120         0   
+27        28       William TRUBRIDGE     120        120    120         0   
+28        29       William TRUBRIDGE     120        120    120         0   
+29        30       William TRUBRIDGE     120        120    120         0   
+30        31       William TRUBRIDGE     120        120    120         0   
+31        32          Guillaume NÉRY     119        123    114         5   
+32        33          Guillaume NÉRY     118        118    118         0   
+33        34           David MULLINS     118        118    117         1   
+34        35          Guillaume NÉRY     117        117    117         0   
+35        36       William TRUBRIDGE     117        117    117         0   
+36        37            Carlos COSTE     116        116    116         0   
+37        38       William TRUBRIDGE     116        116    116         0   
+...      ...                      ...     ...       ...    ...       ...   
+6748    6749       Stephane TOURREAU       0         86    -11        11   
+6750    6751         Kerry HOLLOWELL       0         65    -15        15   
+6751    6752         Kerry HOLLOWELL       0         64     -2         2   
+6752    6753            Marie MEADER       0         27     -1         1   
+6753    6754          ASHLEIGH BAIRD       0         48    -19        19   
+6754    6755           RICARDO PARIS       0         60     -3         3   
+6755    6756           RICARDO PARIS       0         55     -9         9   
+6756    6757            Camila JABER       0         60     -3         3   
+6757    6758       Mario ALBUQUERQUE       0          0      0         0   
+6758    6759          Sandy GREENWAY       0         16      0        17   
+6759    6760           Trevor HUTTON       0         86      0         0   
+6760    6761             Markus HELM       0         81    -82        82   
+6761    6762  Christina XANTHOPOULOU       0         20    -21        21   
+6762    6763               Efi SANTA       0          0      0         0   
+6763    6764           Danai VARVERI       0          0      0         0   
+6764    6765     Dimitrus BERTINELLI       0          0      0         0   
+6765    6766               Tony HELM       0          0      0         0   
+6766    6767              Dany HURST       0          0      0         0   
+6767    6768     Stavros KASTRINAKIS       0          0      0         0   
+6768    6769    Giorgos PANAGIOTAKIS       0          0      0        55   
+6769    6770       Giorgos SKANDALIS       0          0      0         0   
+6770    6771         Yanis VOLAKAKIS       0          0      0         0   
+6771    6772          Jenna APOKOTOS       0          0      0         0   
+6772    6773            mandy SUMNER       0          0      0         0   
+6773    6774  Suzanna VAN DER VEEKEN       0          0      0         0   
+6775    6776             Aris MOUKAS       0          0      0         0   
+6776    6777   Christos PAPADOPOULOS       0          0      0         0   
+6777    6778          Kathryn Nevatt       0         58      0         0   
+6778    6779             Mario Zuzic       0          0      0         0   
+6779    6780           Francesca Koe       0         36    -31        31   
+
+           Date                                              Place  \
+0    2012-11-20                          Suunto Vertical Blue 2012   
+3    2013-09-15      AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013   
+4    2013-09-09                                 2013 Kalamata Open   
+5    2015-09-05  2015 AIDA Depth World Championships Pre compet...   
+6    2012-11-20                          Suunto Vertical Blue 2012   
+9    2013-09-09                                 2013 Kalamata Open   
+10   2013-09-09                                 2013 Kalamata Open   
+11   2010-04-27           Vertical Blue 2010 - the Suunto Dive-Off   
+12   2009-12-06    WR Attempt - NITSCH Herbert(CWT, FIM, VWT, CNF)   
+13   2012-11-20                          Suunto Vertical Blue 2012   
+14   2014-05-25                                 Caribbean Cup 2014   
+15   2014-11-27                               Suunto Vertical Blue   
+16   2009-05-23        WR Attempt - STEPANEK Martin(CWT, FIM, CNF)   
+17   2015-09-11                2015 AIDA Depth World Championships   
+18   2012-11-20                          Suunto Vertical Blue 2012   
+19   2012-11-20                          Suunto Vertical Blue 2012   
+22   2012-11-20                          Suunto Vertical Blue 2012   
+25   2009-04-03                                 Vertical Blue 2009   
+26   2014-09-19                 AIDA Team World Championships 2014   
+27   2012-05-03                          Deans Blue Hole Mini-comp   
+28   2013-09-15      AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013   
+29   2013-11-09                                 Vertical Blue 2013   
+30   2015-04-27                          Suunto Vertical Blue 2015   
+31   2013-09-15      AIDA INDIVIDUAL DEPHT WORLD CHAMPIONSHIP 2013   
+32   2012-11-20                          Suunto Vertical Blue 2012   
+33   2010-04-27           Vertical Blue 2010 - the Suunto Dive-Off   
+34   2011-09-15      AIDA Individual Depth World Championship 2011   
+35   2014-11-27                               Suunto Vertical Blue   
+36   2011-09-15      AIDA Individual Depth World Championship 2011   
+37   2010-04-27           Vertical Blue 2010 - the Suunto Dive-Off   
+...         ...                                                ...   
+6748 2013-07-06                            Nice Abyss contest 2013   
+6750 2013-10-05                                       Deja Blue IV   
+6751 2013-10-05                                       Deja Blue IV   
+6752 2012-11-11                              2012 Pressure Seekers   
+6753 2013-10-05                                       Deja Blue IV   
+6754 2013-10-05                                       Deja Blue IV   
+6755 2014-05-11                                        Deja Blue V   
+6756 2015-11-01                                           Big Blue   
+6757 2008-06-10                                  Triple Depth 2008   
+6758 2010-05-21                      Freedive Dahab Mini Comp 2010   
+6759 2010-06-14               3rd Mediterranean Freediving Meeting   
+6760 2015-08-23                                  2015 AIDA EuroCup   
+6761 2015-08-23                                  2015 AIDA EuroCup   
+6762 2015-09-26                            Summer Apnea Games 2015   
+6763 2015-09-26                            Summer Apnea Games 2015   
+6764 2015-09-26                            Summer Apnea Games 2015   
+6765 2015-09-26                            Summer Apnea Games 2015   
+6766 2015-09-26                            Summer Apnea Games 2015   
+6767 2015-09-26                            Summer Apnea Games 2015   
+6768 2015-09-26                            Summer Apnea Games 2015   
+6769 2015-09-26                            Summer Apnea Games 2015   
+6770 2015-09-26                            Summer Apnea Games 2015   
+6771 2015-09-26                            Summer Apnea Games 2015   
+6772 2015-09-26                            Summer Apnea Games 2015   
+6773 2015-09-26                            Summer Apnea Games 2015   
+6775 2015-09-26                            Summer Apnea Games 2015   
+6776 2015-09-26                            Summer Apnea Games 2015   
+6777 2009-12-03        5th AIDA Individual World Championship 2009   
+6778 2008-07-12                            AIDA Freediving RAB OFF   
+6779 2013-10-05                                       Deja Blue IV   
+
+                 Country  
+0     Russian Federation  
+3     Russian Federation  
+4     Russian Federation  
+5                 France  
+6     Russian Federation  
+9                 France  
+10           New Zealand  
+11               Austria  
+12               Austria  
+13                France  
+14    Russian Federation  
+15    Russian Federation  
+16        Czech Republic  
+17    Russian Federation  
+18                France  
+19    Russian Federation  
+22           New Zealand  
+25               Austria  
+26    Russian Federation  
+27           New Zealand  
+28           New Zealand  
+29           New Zealand  
+30           New Zealand  
+31                France  
+32                France  
+33           New Zealand  
+34                France  
+35           New Zealand  
+36             Venezuela  
+37           New Zealand  
+...                  ...  
+6748              France  
+6750       United States  
+6751       United States  
+6752      United Kingdom  
+6753       United States  
+6754       United States  
+6755       United States  
+6756              Mexico  
+6757            Portugal  
+6758        South Africa  
+6759        South Africa  
+6760             Austria  
+6761              Greece  
+6762              Greece  
+6763              Greece  
+6764       United States  
+6765              Greece  
+6766           Australia  
+6767              Greece  
+6768              Greece  
+6769              Greece  
+6770              Greece  
+6771              Greece  
+6772       United States  
+6773         Netherlands  
+6775              Greece  
+6776              Greece  
+6777         New Zealand  
+6778             Croatia  
+6779       United States  
+
+[6350 rows x 9 columns]

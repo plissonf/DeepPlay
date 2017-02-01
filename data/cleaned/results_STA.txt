@@ -1,0 +1,190 @@
+      Ranking                     Name   Results Announced Points Penalties  \
+0           1         Stéphane MIFSUD   11:35 in         0    139         0   
+1           2         Branko PETROVIC   10:23 in       480    125         0   
+2           3              Tom SIETAS   10:12 in         0      0         0   
+3           4   Aleix SEGURA VENDRELL   10:07 in       435    121         0   
+4           5   Aleix SEGURA VENDRELL   09:32 in       435    112         2   
+5           6   Aleix SEGURA VENDRELL   09:23 in       425  111.6         1   
+7           8         Branko PETROVIC   09:21 in       480    112         0   
+8           9             Goran COLAK   09:19 in         1    112         0   
+9          10              Tom SIETAS   09:15 in         0      0         0   
+10         11             Goran COLAK   09:14 in       510  110.8         0   
+11         12          Martin Valenta   09:14 in         1    111         0   
+12         13             Goran COLAK   09:13 in       122    111         0   
+13         14          Martin Valenta   09:05 in         1    109         0   
+14         15          Martin Valenta   09:04 in       452  108.8         0   
+15         16          Herbert NITSCH   09:04 in         0      0         0   
+16         17   Aleix SEGURA VENDRELL   09:04 in       450    109         0   
+17         18                Guy BREW   09:03 in       300    109         0   
+18         19      Natalia MOLCHANOVA   09:02 in       410    108         0   
+19         20              Tom SIETAS   09:00 in         0      0         0   
+20         21             Goran COLAK   08:59 in       450    108         0   
+21         22              Tom SIETAS   08:58 in       420    108         0   
+22         23          Martin Valenta   08:57 in         1  107.4         0   
+23         24              Tom SIETAS   08:56 in       420    107         0   
+24         25         Vincent MATHIEU   08:53 in       317  105.6         1   
+25         26              Tom SIETAS   08:47 in         0      0         0   
+26         27                Guy BREW   08:46 in       430    105         0   
+27         28    Giorgos PANAGIOTAKIS   08:46 in       442    105         0   
+28         29         Eugen GOETTLING   08:46 in       441    105         0   
+29         30             Goran COLAK   08:44 in         1    105         0   
+30         31            Ulf DEXTEGEN   08:43 in         1    105         0   
+...       ...                      ...       ...       ...    ...       ...   
+14912   14913            Silvia VATER   00:00 in       120      0         0   
+14913   14914          Gabriele SATTO   00:00 in         0      0         0   
+14914   14915           Vedrana DEREN   00:00 in         1      0         0   
+14915   14916          Iva BERBEROVIC   00:00 in         0      0         0   
+14916   14917        Bartlomiej SANAK   00:00 in         1      0         0   
+14917   14918       Robert ZAKRZEWSKI   00:00 in         1      0         0   
+14918   14919             Jody FISHER   00:00 in         0      0         0   
+14919   14920            Alex MAXIMOV   00:00 in         0      0         0   
+14920   14921              Mick VRANA   00:00 in       210      0         0   
+14921   14922          Antti UNTAMALA   00:00 in       120      0        24   
+14922   14923        Nanna KREUTZMANN   00:00 in        10      0         0   
+14923   14924         Steffan SONNTAG   00:00 in         1      0         0   
+14924   14925            Joachim LIPS   00:00 in       210      0        42   
+14925   14926          Ricardo GRADOS   00:00 in         0      0         0   
+14926   14927            Phil CLAYTON   00:00 in         0      0         0   
+14927   14928      Milivoj PERUSKOVIC   00:00 in       120      0         0   
+14928   14929          Matea SEDLACEK   00:00 in       180      0         0   
+14929   14930         Georgina MILLER   00:00 in         1      0         0   
+14930   14931              Stig PRYDS   00:00 in       240      0         0   
+14931   14932       Ulrich MÃ¸LLGAARD   00:00 in       180      0         0   
+14932   14933  Eva RAIMUNDEZ KUHLMANN   00:00 in       110      0         0   
+14933   14934             Jacob LENAU   00:00 in       180      0        36   
+14934   14935             Teit JENSEN   00:00 in       180      0        36   
+14935   14936           Mikkel BRANTH   00:00 in        49      0         9   
+14936   14937             Teit JENSEN   00:00 in        50      0        10   
+14937   14938              Stig PRYDS   00:00 in       150      0        30   
+14938   14939         Barbara Jeschke   00:00 in       210      0         0   
+14939   14940         Barbara Jeschke   00:00 in       241      0        48   
+14940   14941     Yiorgos Mitropoulos   00:00 in       180      0         0   
+14941   14942             Mario Zuzic   00:00 in       120      0         0   
+
+            Date                                              Place  \
+0     2009-06-08         WR Attempt - MIFSUD Stephane(Static Apnea)   
+1     2011-11-18                                  Submania Cup 2011   
+2     2008-06-03                       WR Attempt - SIETAS Tom(STA)   
+3     2015-06-19  Individual AIDA Pool World Championships - Bel...   
+4     2015-06-19  Individual AIDA Pool World Championships - Bel...   
+5     2016-06-27                      Pool World Championships 2016   
+7     2012-11-11         Hydro Dynamic - Austrian Championship 2012   
+8     2013-10-12                          Sofia Freediving Cup 2013   
+9     2008-05-11                       WR Attempt - SIETAS Tom(STA)   
+10    2016-06-27                      Pool World Championships 2016   
+11    2016-12-02  Barbórkowy Puchar Śląska we Freedivingu 2016 |...   
+12    2014-09-19                 AIDA Team World Championships 2014   
+13    2016-11-26                                 MiniComp Brno 2016   
+14    2016-06-27                      Pool World Championships 2016   
+15    2006-12-12       WR Attempt - NITSCH Herbert(CWT-CNF-FIM-STA)   
+16    2014-04-20                            AIDA NATIONAL COMP 2014   
+17    2009-07-12  Wellington Winter Champs, Freediving Competiti...   
+18    2013-06-21           Individual AIDA pool World Championships   
+19    2006-08-26               WR Attempt - SIETAS Tom(STA-DYN-DNF)   
+20    2013-06-21           Individual AIDA pool World Championships   
+21    2004-12-12                               3rd Dutch Apnea Open   
+22    2016-05-27       The XIII Polish Feediving Pool Championships   
+23    2004-10-30                                Rhein Main Cup 2004   
+24    2016-09-16                            Team World Championship   
+25    2004-06-11                      WR Attempt - SIETAS Tom (STA)   
+26    2009-08-21   5th AIDA Individual Pool World Championship 2009   
+27    2013-06-21           Individual AIDA pool World Championships   
+28    2013-06-21           Individual AIDA pool World Championships   
+29    2013-02-23  7th Serbian Open Freediving Championship - Bel...   
+30    2009-01-30                                      Finnkampen II   
+...          ...                                                ...   
+14912 2010-11-21           Belgium Cup 2010 - Open Freediving Liege   
+14913 2010-08-10                          Europe Evolution Cup 2010   
+14914 2010-11-13                        6th Submania Apnea Cup 2010   
+14915 2010-12-05                      Serbian Winter Apnea Cup 2010   
+14916 2011-03-20       2nd Polish Pool Freediving Championship 2011   
+14917 2011-03-20       2nd Polish Pool Freediving Championship 2011   
+14918 2011-05-27                   MCR Czech AIDA Championship 2011   
+14919 2011-05-27                   MCR Czech AIDA Championship 2011   
+14920 2011-05-27                   MCR Czech AIDA Championship 2011   
+14921 2011-05-21           Finnish National Pool Championships 2011   
+14922 2009-06-13                       Aarhus Triple Challenge 2009   
+14923 2009-01-30                                      Finnkampen II   
+14924 2011-06-05                    Open Freediving Antwerp Belgium   
+14925 2013-04-20                    Olmeca Open Apnea Veracruz 2013   
+14926 2010-08-01                      Wellington Winter Champs 2010   
+14927 2008-02-16          Serbian Open Freediving Championship 2008   
+14928 2016-02-20  10th Serbian Open Freediving Championship - Be...   
+14929 2016-03-05                      Danish Championship Pool 2016   
+14930 2016-03-05                      Danish Championship Pool 2016   
+14931 2016-03-05                      Danish Championship Pool 2016   
+14932 2015-12-20                            Trofeu Oscar Lopez 2015   
+14933 2016-01-23                      Masterdive no bubbles allowed   
+14934 2016-01-23                      Masterdive no bubbles allowed   
+14935 2016-01-23                      Masterdive no bubbles allowed   
+14936 2016-01-23                      Masterdive no bubbles allowed   
+14937 2016-01-23                      Masterdive no bubbles allowed   
+14938 2008-02-08                     Swiss Indoor Championship 2008   
+14939 2016-02-21                             4th Tyrolean Apnea Cup   
+14940 2008-07-06        AIDA HELLAS SUMMER APNEA GAMES 2008 PART II   
+14941 2009-11-14                        5th Submania Apnea Cup 2009   
+
+                  Country  
+0                  France  
+1                  Serbia  
+2                 Germany  
+3                   Spain  
+4                   Spain  
+5                   Spain  
+7                  Serbia  
+8                 Croatia  
+9                 Germany  
+10                Croatia  
+11         Czech Republic  
+12                Croatia  
+13         Czech Republic  
+14         Czech Republic  
+15                Austria  
+16                  Spain  
+17            New Zealand  
+18     Russian Federation  
+19                Germany  
+20                Croatia  
+21                Germany  
+22         Czech Republic  
+23                Germany  
+24                 France  
+25                Germany  
+26            New Zealand  
+27                 Greece  
+28                Austria  
+29                Croatia  
+30                 Sweden  
+...                   ...  
+14912             Germany  
+14913               Italy  
+14914             Croatia  
+14915              Serbia  
+14916              Poland  
+14917              Poland  
+14918           Australia  
+14919  Russian Federation  
+14920      Czech Republic  
+14921             Finland  
+14922             Denmark  
+14923             Finland  
+14924             Germany  
+14925              Mexico  
+14926         New Zealand  
+14927          Montenegro  
+14928             Croatia  
+14929      United Kingdom  
+14930             Denmark  
+14931             Denmark  
+14932               Spain  
+14933             Denmark  
+14934             Denmark  
+14935             Denmark  
+14936             Denmark  
+14937             Denmark  
+14938             Germany  
+14939             Germany  
+14940              Greece  
+14941             Croatia  
+
+[14831 rows x 9 columns]
