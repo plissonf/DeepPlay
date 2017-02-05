@@ -1,0 +1,188 @@
+---
+title: "Exploratory Data Analysis - Project DeepPlay"
+author: "Fabien Plisson"
+date: "2/2/2017"
+output: html_document
+---
+
+1. Set directory and Import libraries
+```{r, echo=FALSE}
+setwd("/Users/fabienplisson/Desktop/Github_shares/DeepPlay/FreeDiving_AIDA_data")
+```
+
+```{r}
+library(ggplot2)
+library(data.table)
+library(reshape)
+library(plyr)
+```
+
+
+2. Load datasets
+```{r}
+cnf <- read.csv("scraped_data/results_cnf.csv", header=TRUE)
+```
+
+```{r, echo=FALSE}
+fim <- read.csv("scraped_data/results_fim.csv", header=TRUE)
+sta <- read.csv("scraped_data/results_sta.csv", header=TRUE)
+cwt <- read.csv("scraped_data/results_cwt.csv", header=TRUE)
+#dnf <- read.csv("scraped_data/results_dnf.csv", header=TRUE)
+#dyn <- read.csv("scraped_data/results_dyn.csv", header=TRUE)
+```
+
+
+3. Data Analysis
+For each discipline (except STA), convert all depth results as negative values and make sure dates of each event in converted into a date format. 
+
+Function depth_and_date(df)
+```{r}
+depth_and_date <- function(df){
+  df$Result_m <- -abs(df$Result_m)
+  df$Announced <- -abs(df$Announced)
+  df$Date <- as.Date(factor(df$Date), format = "%Y-%m-%d")
+  return(df)
+  }
+```
+
+
+Example: CNF - constant no fins.
+```{r}
+cnf <- depth_and_date(cnf)
+head(cnf, 10)
+```
+
+
+Feature engineering: determining the earliest and latest dates as well as minimal and maximal depths for each athlete. The function creates all new data into a new dataframe.
+
+Function min_and_max(df)
+```{r}
+min_and_max <- function(df){
+  dt <- data.table(df)
+  tmin <- dt[ , list(MinDate = min(Date)), by = Name]
+  tmax <- dt[ , list(MaxDate = max(Date)), by = Name]
+  dmin <- dt[ , list(MinDepth = max(Result_m)), by = Name]
+  dmax <- dt[ , list(MaxDepth = min(Result_m)), by = Name]
+  merge1 <- merge(tmin,tmax,by="Name")
+  merge2 <- merge(dmin,dmax,by="Name")
+  new_df <- merge(merge1, merge2,by="Name")
+  return(new_df)
+}
+```
+
+
+```{r}
+new_cnf <- min_and_max(cnf)
+head(new_cnf, 10)
+```
+
+Measure time difference with function time_difference(new_df):
+```{r}
+time_difference <- function(new_df){
+  start <- c(new_df$MinDate)
+  end <- c(new_df$MaxDate)
+  new_df$diffDate <- difftime(end, start, units = "days")
+  return(new_df)
+}
+```
+
+```{r}
+new_cnf <- time_difference(new_cnf)
+head(new_cnf, 10)
+```
+
+
+
+#Q: Which athlete has the longest career in competitive freediving?
+Plot line segments to display the career lengths in competitive freediving for top 20 athletes competing in a given discipline.
+
+Function longest_career(new_df)
+```{r}
+longest_career <- function(new_df){
+  new_df <- new_df[order(MinDate),] 
+  new_df$Name <- reorder(new_df$Name, new_df$MinDate)
+  
+  # Use name of data.frame as a string to insert in title (pdf)
+  #df_name <- toString(deparse(substitute(new_df))) Working
+  #But title substitution is not working with paste/paste0/stringf... "error: pdf title too long"
+  #title <- paste(format("Longest_career_", names(df_name)[1], ".pdf")) 
+  
+  pdf("Longest_career.pdf", width=20, height=18)
+  p <- ggplot(subset(new_df, diffDate > 2200), aes(y = Name)) + 
+    labs(x = "", y = "Athlete") + 
+    geom_segment(aes(x = MinDate, y = Name, xend = MaxDate, yend = Name), size = 1) + 
+    geom_point(aes(x = MinDate, color = "MinDate"), size = 4, shape = 15) + 
+    geom_point(aes(x = MaxDate, color = "MaxDate"), size = 4, shape = 15) + 
+    scale_color_discrete(name = "Time (years)") + 
+    theme_bw() + 
+    theme(legend.position = "bottom")
+  
+  print(p)
+  dev.off();
+}
+```
+
+```{r}
+longest_career(new_cnf)
+```
+```{r, echo=FALSE}
+new_cnf <- new_cnf[order(MinDate),] 
+new_cnf$Name <- reorder(new_cnf$Name, new_cnf$MinDate)
+
+ggplot(subset(new_cnf, diffDate > 2600), aes(y = Name)) + labs(x = "", y = "Athlete") + geom_segment(aes(x = MinDate, y = Name, xend = MaxDate, yend = Name), size = 1) + geom_point(aes(x = MinDate, color = "MinDate"), size = 4, shape = 15) + geom_point(aes(x = MaxDate, color = "MaxDate"), size = 4, shape = 15) + scale_color_discrete(name = "Time (years)") + theme_bw() + theme(legend.position = "bottom")
+
+```
+
+
+
+#Q: Which countries (national record) are leading the competition over time? 
+Displaying national records (maximal depth regardless of the athlete name) over time in a specific discipline. Apply function depth_and_date() with original dataset e.g. cnf prior to use leaderboard().
+
+```{r}
+leaderboard <- function(df){
+  df$Year <- year(df$Date)
+  df_agg <- aggregate(Result_m ~ Year + Country, data = df, min)
+  df_agg2 <- cnf_agg[order(df_agg$Result_m),] 
+  df_agg2$Country <- reorder(df_agg2$Country, df_agg2$Result_m)
+  return(df)
+  
+  pdf("Timeline_Country_Depth.pdf")
+  p <- ggplot(cnf_agg2, aes(Year, Result_m, group=Country, color=Country)) + 
+    geom_line(linetype = 2, size=0.25) + 
+    geom_point() + 
+    scale_color_discrete(name = "Time (years)", guide = FALSE) + 
+    theme_bw() + 
+    ylab("Depth (m)")                      
+  
+  print(p)
+  dev.off()
+}
+```
+```{r}
+#leaderboard(cnf)
+```
+
+```{r, echo=FALSE}
+
+# Identify year of event for each athlete
+cnf$Year <- year(cnf$Date)
+
+cnf_agg <- aggregate(Result_m ~ Year + Country, data = cnf, min)
+cnf_agg2 <- cnf_agg[order(cnf_agg$Year, decreasing=FALSE),] 
+cnf_agg2$Country <- reorder(cnf_agg2$Country, cnf_agg2$Result_m)
+cnf_max <- ddply(cnf_agg2, c("Country"), subset, rank(Year) <= 12) 
+
+ggplot(cnf_max, aes(Year, Result_m, group=Country, color=Country)) + 
+  geom_line(linetype = 2, size=0.25) + 
+  geom_point() +
+  scale_color_discrete(name = "Time (years)", limits=c("New Zealand", "Russian Federation", "France")) + 
+  theme_bw() + 
+  ylab("Depth (m)")
+```
+
+
+# Future Steps
+  - Building Interactive plots using r/Bokeh and D3.js,
+  - Adding new features using web_scraping, predictive analysis (gender, lat/long, water temp.),
+  - Creating a new website.
+  
