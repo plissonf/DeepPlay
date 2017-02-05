@@ -11,6 +11,9 @@ Project Organization
 - notebooks: Jupyter notebooks to develop various Python functions
 - scripts: Scripts with various functions - web scraping (library request, html parsing), data cleaning
 
+Check out the following files;
+Web scraping and Data Cleaning section: web-scraping.md
+Exploratory Data Analysis: exploratory_data_analysis.md
 
 --------
 
