@@ -12,9 +12,9 @@ Project Organization
 - scripts: Scripts with various functions - web scraping (library request, html parsing), data cleaning
 
 Check out the following files;
-- Web scraping and Data Cleaning section (Python/BeautifulSoup): web_scraping.md
-- Exploratory Data Analysis section (R/dplyr/ggplot2/reshape): exploratory_data_analysis.md
-
+- Web scraping and Data Cleaning section (Python/BeautifulSoup): 
+https://github.com/plissonf/DeepPlay/blob/master/web_scraping.md 
+- Exploratory Data Analysis section (R/dplyr/ggplot2/reshape): https://github.com/plissonf/DeepPlay/blob/master/exploratory_data_analysis.Rmd
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
