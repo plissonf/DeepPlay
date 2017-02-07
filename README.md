@@ -20,7 +20,7 @@ https://github.com/plissonf/DeepPlay/blob/master/exploratory_data_analysis.Rmd
 
 Demo
 ------------
-[Link]<iframe src="https://docs.google.com/presentation/d/14J9PSsko9wBg-Dki3cH8Gu5KDsuqwV3BnB9ZkmHBR8o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Link](https://docs.google.com/presentation/d/14J9PSsko9wBg-Dki3cH8Gu5KDsuqwV3BnB9ZkmHBR8o/embed?)
             
 --------
 
